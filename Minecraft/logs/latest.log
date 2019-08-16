@@ -1,315 +1,754 @@
-[16八月2019 01:30:13.001] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 25.0.219, --fml.mcpVersion, 20190213.203750, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge, nogui]
-[16八月2019 01:30:13.005] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_222
-[16八月2019 01:30:13.214] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[16八月2019 01:30:13.752] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[16八月2019 01:30:25.030] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16八月2019 01:30:25.035] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16八月2019 01:30:25.036] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16八月2019 01:30:25.057] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16八月2019 01:30:25.060] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16八月2019 01:30:25.255] [main/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 0 recipes
-[16八月2019 01:30:25.258] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
-[16八月2019 01:30:25.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.13.2
-[16八月2019 01:30:25.477] [Server thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
-[16八月2019 01:30:25.599] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 25.0.219, for MC 1.13.2 with MCP 20190213.203750
-[16八月2019 01:30:25.601] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v25.0.219 Initialized
-[16八月2019 01:30:26.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16八月2019 01:30:26.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16八月2019 01:30:26.026] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager/]: server.properties does not exist
-[16八月2019 01:30:26.027] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager/]: Generating new properties file
-[16八月2019 01:30:26.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16八月2019 01:30:26.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
-[16八月2019 01:30:26.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16八月2019 01:30:26.837] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[16八月2019 01:30:27.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 25.0.219 Target: 25.0.219
-[16八月2019 01:30:27.437] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[16八月2019 01:30:27.439] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to SimpleCommentedConfig:{}
-[16八月2019 01:30:27.441] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to false
-[16八月2019 01:30:27.441] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to false
-[16八月2019 01:30:27.442] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to false
-[16八月2019 01:30:27.442] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to 0.1
-[16八月2019 01:30:27.443] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to 0.05
-[16八月2019 01:30:27.443] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to true
-[16八月2019 01:30:27.444] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to false
-[16八月2019 01:30:27.444] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to 0
-[16八月2019 01:30:27.445] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.clumpingThreshold was corrected from null to 64
-[16八月2019 01:30:27.447] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.448] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.448] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.449] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.449] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.450] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[16八月2019 01:30:27.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16八月2019 01:30:27.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack vanilla, loading it automatically
-[16八月2019 01:30:27.552] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.13.2-25.0.219-universal.jar
-[16八月2019 01:30:28.759] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 524 recipes
-[16八月2019 01:30:29.707] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 571 advancements
-[16八月2019 01:30:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16八月2019 01:30:37.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 0%
-[16八月2019 01:30:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 0%
-[16八月2019 01:30:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 0%
-[16八月2019 01:30:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 4%
-[16八月2019 01:30:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 8%
-[16八月2019 01:30:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 12%
-[16八月2019 01:30:42.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 16%
-[16八月2019 01:30:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 20%
-[16八月2019 01:30:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 24%
-[16八月2019 01:30:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 28%
-[16八月2019 01:30:44.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 32%
-[16八月2019 01:30:45.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 36%
-[16八月2019 01:30:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 40%
-[16八月2019 01:30:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 44%
-[16八月2019 01:30:46.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 48%
-[16八月2019 01:30:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 52%
-[16八月2019 01:30:47.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 56%
-[16八月2019 01:30:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 60%
-[16八月2019 01:30:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 60%
-[16八月2019 01:30:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 64%
-[16八月2019 01:30:49.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 68%
-[16八月2019 01:30:50.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 72%
-[16八月2019 01:30:51.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 76%
-[16八月2019 01:30:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 80%
-[16八月2019 01:30:52.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 84%
-[16八月2019 01:30:52.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 88%
-[16八月2019 01:30:53.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 92%
-[16八月2019 01:30:53.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 96%
-[16八月2019 01:30:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 100%
-[16八月2019 01:30:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 17321 ms
-[16八月2019 01:30:54.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.848s)! For help, type "help"
-[16八月2019 01:31:41.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[16八月2019 01:33:02.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command
-[16八月2019 01:33:02.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Chelp<--[HERE]
-[16八月2019 01:33:05.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
-[16八月2019 01:33:05.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
-[16八月2019 01:33:05.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
-[16八月2019 01:33:05.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
-[16八月2019 01:33:05.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
-[16八月2019 01:33:05.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
-[16八月2019 01:33:05.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[16八月2019 01:33:05.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|remove)
-[16八月2019 01:33:05.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
-[16八月2019 01:33:05.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop)
-[16八月2019 01:33:05.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
-[16八月2019 01:33:05.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
-[16八月2019 01:33:05.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
-[16八月2019 01:33:05.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
-[16八月2019 01:33:05.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
-[16八月2019 01:33:05.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[16八月2019 01:33:05.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
-[16八月2019 01:33:05.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[16八月2019 01:33:05.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
-[16八月2019 01:33:05.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
-[16八月2019 01:33:05.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
-[16八月2019 01:33:05.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
-[16八月2019 01:33:05.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[16八月2019 01:33:05.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
-[16八月2019 01:33:05.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
-[16八月2019 01:33:05.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
-[16八月2019 01:33:05.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill <targets>
-[16八月2019 01:33:05.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
-[16八月2019 01:33:05.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Shipwreck|Stronghold|Swamp_Hut|Village)
-[16八月2019 01:33:05.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
-[16八月2019 01:33:05.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
-[16八月2019 01:33:05.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
-[16八月2019 01:33:05.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
-[16八月2019 01:33:05.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
-[16八月2019 01:33:05.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
-[16八月2019 01:33:05.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[16八月2019 01:33:05.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
-[16八月2019 01:33:05.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
-[16八月2019 01:33:05.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
-[16八月2019 01:33:05.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
-[16八月2019 01:33:05.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
-[16八月2019 01:33:05.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
-[16八月2019 01:33:05.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
-[16八月2019 01:33:05.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
-[16八月2019 01:33:05.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
-[16八月2019 01:33:05.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[16八月2019 01:33:05.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
-[16八月2019 01:33:05.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
-[16八月2019 01:33:05.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
-[16八月2019 01:33:05.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[16八月2019 01:33:05.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
-[16八月2019 01:33:05.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[16八月2019 01:33:05.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
-[16八月2019 01:33:05.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
-[16八月2019 01:33:05.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
-[16八月2019 01:33:05.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
-[16八月2019 01:33:05.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
-[16八月2019 01:33:05.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
-[16八月2019 01:33:05.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
-[16八月2019 01:33:05.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[16八月2019 01:33:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
-[16八月2019 01:33:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
-[16八月2019 01:33:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
-[16八月2019 01:33:05.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
-[16八月2019 01:33:05.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
-[16八月2019 01:33:05.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
-[16八月2019 01:33:05.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
-[16八月2019 01:33:11.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command
-[16八月2019 01:33:11.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg hello<--[HERE]
-[16八月2019 01:33:19.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command
-[16八月2019 01:33:19.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: msg hello<--[HERE]
-[16八月2019 01:33:39.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
-[16八月2019 01:33:45.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
-[16八月2019 01:33:52.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Only players may be affected by this command, but the provided selector includes entities
-[16八月2019 01:33:52.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg @e all<--[HERE]
-[16八月2019 01:34:00.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
-[16八月2019 01:35:20.843] [User Authenticator #1/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
-[16八月2019 01:35:21.741] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/71.95.53.87:63252] logged in with entity id 820 at (-9.5, 77.0, -263.5)
-[16八月2019 01:35:21.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
-[16八月2019 01:35:46.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wang_Wang_> fuck
-[16八月2019 01:35:55.189] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
-[16八月2019 01:35:55.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
-[16八月2019 01:43:50.825] [User Authenticator #2/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
-[16八月2019 01:43:51.618] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:56090] logged in with entity id 1918 at (7.5, 86.0, -258.5)
-[16八月2019 01:43:51.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
-[16八月2019 01:46:08.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie has made the advancement [Stone Age]
-[16八月2019 01:49:35.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie has made the advancement [Getting an Upgrade]
-[16八月2019 01:50:26.328] [User Authenticator #3/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[16八月2019 01:50:27.094] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:59923] logged in with entity id 6361 at (2.5, 75.0, -246.5)
-[16八月2019 01:50:27.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[16八月2019 01:50:27.150] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry/]: Fetching addPacket for removed entity
-[16八月2019 01:50:37.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard has made the advancement [Getting an Upgrade]
-[16八月2019 01:52:39.139] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[16八月2019 01:52:39.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[16八月2019 01:53:50.831] [User Authenticator #4/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[16八月2019 01:53:51.612] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:59936] logged in with entity id 8866 at (2.5, 75.0, -246.5)
-[16八月2019 01:53:51.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[16八月2019 01:54:55.435] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[16八月2019 01:54:55.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[16八月2019 01:55:17.745] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@52bdf4b4[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:59943) lost connection: Disconnected
-[16八月2019 01:55:49.632] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@75072ead[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:59944) lost connection: Disconnected
-[16八月2019 01:55:49.931] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
-[16八月2019 01:55:49.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
-[16八月2019 01:55:52.219] [User Authenticator #5/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
-[16八月2019 01:55:52.999] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:56114] logged in with entity id 10668 at (-12.405739373996669, 77.0, -263.5780861549758)
-[16八月2019 01:55:53.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
-[16八月2019 01:55:55.657] [User Authenticator #6/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[16八月2019 01:55:56.441] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:59946] logged in with entity id 10807 at (2.5, 75.0, -246.5)
-[16八月2019 01:55:56.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[16八月2019 01:57:20.262] [User Authenticator #7/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
-[16八月2019 01:57:21.040] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/71.95.53.87:50525] logged in with entity id 12612 at (-13.025000907033155, 76.0, -249.6246348608924)
-[16八月2019 01:57:21.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
-[16八月2019 01:58:46.407] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[16八月2019 01:58:46.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[16八月2019 01:59:54.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [Getting an Upgrade]
-[16八月2019 02:00:51.713] [User Authenticator #8/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[16八月2019 02:00:52.546] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:49284] logged in with entity id 17543 at (4.3011662319931325, 75.0, -234.65958387206902)
-[16八月2019 02:00:52.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[16八月2019 02:01:35.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [Stone Age]
-[16八月2019 02:02:30.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [Monster Hunter]
-[16八月2019 02:03:48.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ was slain by Zombie
-[16八月2019 02:03:50.049] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ moved too quickly! -81.04582911726196,9.0,-92.51375796278074
-[16八月2019 02:04:28.643] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[16八月2019 02:04:28.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[16八月2019 02:05:15.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie has made the advancement [Monster Hunter]
-[16八月2019 02:05:34.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie was shot by Skeleton
-[16八月2019 02:05:36.452] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie moved too quickly! -103.5102355429377,12.0,7.447253043123624
-[16八月2019 02:05:41.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ was shot by Skeleton
-[16八月2019 02:06:50.388] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
-[16八月2019 02:06:50.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
-[16八月2019 02:06:55.238] [User Authenticator #9/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
-[16八月2019 02:06:56.055] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/71.95.53.87:50704] logged in with entity id 23818 at (-21.01145242697456, 80.0, -218.77116400605314)
-[16八月2019 02:06:56.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
-[16八月2019 02:07:46.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[16八月2019 02:07:52.400] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@1a8e820b[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:49263) lost connection: Disconnected
-[16八月2019 02:08:26.859] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@2daee123[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:49267) lost connection: Disconnected
-[16八月2019 02:08:30.546] [User Authenticator #10/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[16八月2019 02:08:31.293] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:49268] logged in with entity id 26136 at (19.398041499717984, 84.0, -230.33388882045656)
-[16八月2019 02:08:31.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[16八月2019 02:08:31.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[16八月2019 02:08:49.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[16八月2019 02:09:11.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[16八月2019 02:09:31.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5391ms or 107 ticks behind
-[16八月2019 02:10:57.485] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
-[16八月2019 02:10:57.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
-[16八月2019 02:12:16.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard has made the advancement [Monster Hunter]
-[16八月2019 02:12:17.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard has made the advancement [Acquire Hardware]
-[16八月2019 02:14:11.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [A Seedy Place]
-[16八月2019 02:14:43.440] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
-[16八月2019 02:14:43.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
-[16八月2019 02:15:09.935] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[16八月2019 02:15:09.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[16八月2019 02:15:35.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command
-[16八月2019 02:15:35.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ls<--[HERE]
-[16八月2019 02:15:48.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Wang_Wang_ a server operator
-[16八月2019 02:15:56.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown command
-[16八月2019 02:15:56.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: close<--[HERE]
-[16八月2019 02:16:00.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
-[16八月2019 02:16:00.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
-[16八月2019 02:16:00.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
-[16八月2019 02:16:00.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|remove)
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
-[16八月2019 02:16:00.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop)
-[16八月2019 02:16:00.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
-[16八月2019 02:16:00.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
-[16八月2019 02:16:00.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
-[16八月2019 02:16:00.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
-[16八月2019 02:16:00.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
-[16八月2019 02:16:00.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill <targets>
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Shipwreck|Stronghold|Swamp_Hut|Village)
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
-[16八月2019 02:16:00.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
-[16八月2019 02:16:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
-[16八月2019 02:16:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
-[16八月2019 02:16:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[16八月2019 02:16:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
-[16八月2019 02:16:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
-[16八月2019 02:16:00.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[16八月2019 02:16:00.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
-[16八月2019 02:16:00.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
-[16八月2019 02:16:00.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
-[16八月2019 02:16:04.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[16八月2019 02:16:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16八月2019 02:16:04.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16八月2019 02:16:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16八月2019 02:16:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
-[16八月2019 02:16:04.361] [Thread-7/FATAL] [net.minecraftforge.fml.packs.ModFileResourcePack/]: Failed to clean up tempdir /tmp/modpacktmp1082760502168054513
-[16八月2019 02:16:04.362] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16八月2019 02:16:04.363] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16八月2019 02:16:04.363] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16八月2019 02:16:04.363] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[02:46:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:46:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:46:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:46:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:46:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:46:56] [main/INFO]: Loaded 0 recipes
+[02:46:56] [main/INFO]: Loaded 0 advancements
+[02:46:56] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[02:46:56] [Server thread/INFO]: Loading properties
+[02:46:57] [Server thread/INFO]: Default game type: SURVIVAL
+[02:46:57] [Server thread/INFO]: Generating keypair
+[02:46:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:46:57] [Server thread/INFO]: Using epoll channel type
+[02:46:57] [Server thread/INFO]: Preparing level "world"
+[02:46:57] [Server thread/WARN]: Missing data pack mod:forge
+[02:46:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:46:58] [Server thread/INFO]: Loaded 524 recipes
+[02:46:59] [Server thread/INFO]: Loaded 571 advancements
+[02:46:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:46:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 4%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 8%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 12%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 16%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 20%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/INFO]: Preparing spawn area: 24%
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 28%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 32%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 36%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 40%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 44%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 48%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 52%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 56%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 60%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 64%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 68%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 72%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 76%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/INFO]: Preparing spawn area: 80%
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:01] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/INFO]: Preparing spawn area: 84%
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/INFO]: Preparing spawn area: 88%
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/INFO]: Preparing spawn area: 92%
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/INFO]: Preparing spawn area: 96%
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[02:47:02] [Server thread/WARN]: Ignoring unknown attribute 'forge.nameTagDistance'
+[02:47:02] [Server thread/INFO]: Preparing spawn area: 100%
+[02:47:02] [Server thread/INFO]: Time elapsed: 2407 ms
+[02:47:02] [Server thread/INFO]: Done (4.505s)! For help, type "help"
+[02:47:09] [Server thread/INFO]: Unknown command
+[02:47:09] [Server thread/INFO]: say/say<--[HERE]
+[02:47:12] [Server thread/INFO]: /advancement (grant|revoke)
+[02:47:12] [Server thread/INFO]: /ban <targets> [<reason>]
+[02:47:12] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[02:47:12] [Server thread/INFO]: /banlist [ips|players]
+[02:47:12] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[02:47:12] [Server thread/INFO]: /clear [<targets>]
+[02:47:12] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[02:47:12] [Server thread/INFO]: /data (get|merge|remove)
+[02:47:12] [Server thread/INFO]: /datapack (disable|enable|list)
+[02:47:12] [Server thread/INFO]: /debug (start|stop)
+[02:47:12] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[02:47:12] [Server thread/INFO]: /deop <targets>
+[02:47:12] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[02:47:12] [Server thread/INFO]: /effect (clear|give)
+[02:47:12] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[02:47:12] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[02:47:12] [Server thread/INFO]: /experience (add|query|set)
+[02:47:12] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[02:47:12] [Server thread/INFO]: /forceload (add|query|remove)
+[02:47:12] [Server thread/INFO]: /function <name>
+[02:47:12] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[02:47:12] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[02:47:12] [Server thread/INFO]: /give <targets> <item> [<count>]
+[02:47:12] [Server thread/INFO]: /help [<command>]
+[02:47:12] [Server thread/INFO]: /kick <targets> [<reason>]
+[02:47:12] [Server thread/INFO]: /kill <targets>
+[02:47:12] [Server thread/INFO]: /list [uuids]
+[02:47:12] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Shipwreck|Stronghold|Swamp_Hut|Village)
+[02:47:12] [Server thread/INFO]: /me <action>
+[02:47:12] [Server thread/INFO]: /msg <targets> <message>
+[02:47:12] [Server thread/INFO]: /op <targets>
+[02:47:12] [Server thread/INFO]: /pardon <targets>
+[02:47:12] [Server thread/INFO]: /pardon-ip <target>
+[02:47:12] [Server thread/INFO]: /particle <name> [<pos>]
+[02:47:12] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[02:47:12] [Server thread/INFO]: /recipe (give|take)
+[02:47:12] [Server thread/INFO]: /reload
+[02:47:12] [Server thread/INFO]: /replaceitem (block|entity)
+[02:47:12] [Server thread/INFO]: /save-all [flush]
+[02:47:12] [Server thread/INFO]: /save-off
+[02:47:12] [Server thread/INFO]: /save-on
+[02:47:12] [Server thread/INFO]: /say <message>
+[02:47:12] [Server thread/INFO]: /scoreboard (objectives|players)
+[02:47:12] [Server thread/INFO]: /seed
+[02:47:12] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[02:47:12] [Server thread/INFO]: /setidletimeout <minutes>
+[02:47:12] [Server thread/INFO]: /setworldspawn [<pos>]
+[02:47:12] [Server thread/INFO]: /spawnpoint [<targets>]
+[02:47:12] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[02:47:12] [Server thread/INFO]: /stop
+[02:47:12] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[02:47:12] [Server thread/INFO]: /summon <entity> [<pos>]
+[02:47:12] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[02:47:12] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[02:47:12] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[02:47:12] [Server thread/INFO]: /tell -> msg
+[02:47:12] [Server thread/INFO]: /tellraw <targets> <message>
+[02:47:12] [Server thread/INFO]: /time (add|query|set)
+[02:47:12] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[02:47:12] [Server thread/INFO]: /tp -> teleport
+[02:47:12] [Server thread/INFO]: /trigger <objective> [add|set]
+[02:47:12] [Server thread/INFO]: /w -> msg
+[02:47:12] [Server thread/INFO]: /weather (clear|rain|thunder)
+[02:47:12] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[02:47:12] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[02:47:12] [Server thread/INFO]: /xp -> experience
+[02:47:17] [Server thread/INFO]: [Server] hello
+[02:47:33] [Server thread/INFO]: Unknown command
+[02:47:33] [Server thread/INFO]: /tp/stiop<--[HERE]
+[02:47:36] [Server thread/INFO]: Unknown command
+[02:47:36] [Server thread/INFO]: /stpoop<--[HERE]
+[02:47:39] [Server thread/INFO]: Stopping the server
+[02:47:39] [Server thread/INFO]: Stopping server
+[02:47:39] [Server thread/INFO]: Saving players
+[02:47:39] [Server thread/INFO]: Saving worlds
+[02:47:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:47:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:47:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:47:40] [Server Shutdown Thread/INFO]: Stopping server
+[02:47:40] [Server Shutdown Thread/INFO]: Saving players
+[02:47:40] [Server Shutdown Thread/INFO]: Saving worlds
+[02:47:40] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
