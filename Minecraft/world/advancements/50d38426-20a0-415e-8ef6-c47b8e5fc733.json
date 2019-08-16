@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-08-16 12:40:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2019-08-16 01:45:43 -0700"
@@ -29,6 +35,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-08-16 13:29:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_rose_red": "2019-08-16 13:08:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 02:00:55 -0700"
@@ -41,9 +59,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_white_wool": "2019-08-16 02:00:55 -0700"
+      "has_double_plant": "2019-08-16 13:29:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-16 13:09:33 -0700"
     },
     "done": true
   },
@@ -53,9 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_cobblestone": "2019-08-16 01:46:08 -0700"
+      "has_white_wool": "2019-08-16 02:00:55 -0700"
     },
     "done": true
   },
@@ -65,15 +89,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2019-08-16 01:46:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-08-16 02:03:54 -0700"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_red_dye": "2019-08-16 13:08:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-08-16 01:46:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-08-16 12:40:58 -0700"
     },
     "done": true
   },
@@ -120,6 +162,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 02:00:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2019-08-16 13:09:29 -0700"
     },
     "done": true
   },
@@ -219,6 +267,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2019-08-16 13:09:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2019-08-16 13:08:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2019-08-16 01:45:16 -0700"
@@ -261,6 +321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-08-16 12:40:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2019-08-16 02:01:16 -0700"
@@ -279,9 +345,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
-      "has_carrot": "2019-08-16 02:08:12 -0700"
+      "has_red_dye": "2019-08-16 13:08:58 -0700"
     },
     "done": true
   },
@@ -291,15 +357,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_white_wool": "2019-08-16 02:00:55 -0700"
+      "has_carrot": "2019-08-16 02:08:12 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "has_egg": "2019-08-16 02:08:00 -0700"
+      "has_white_wool": "2019-08-16 02:00:55 -0700"
     },
     "done": true
   },
@@ -315,6 +381,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-08-16 02:08:00 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-08-16 01:44:54 -0700"
@@ -324,6 +396,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2019-08-16 02:04:38 -0700",
+      "potato": "2019-08-16 13:30:01 -0700",
+      "beetroot": "2019-08-16 12:41:34 -0700",
       "carrot": "2019-08-16 02:08:46 -0700"
     },
     "done": false
@@ -337,6 +411,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2019-08-16 01:45:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-08-16 13:10:31 -0700"
     },
     "done": true
   },
@@ -430,9 +510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_white_wool": "2019-08-16 02:00:55 -0700"
+      "has_chicken": "2019-08-16 12:40:46 -0700"
     },
     "done": true
   },
@@ -442,9 +522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2019-08-16 02:00:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-16 01:58:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2019-08-16 13:08:58 -0700"
     },
     "done": true
   },
@@ -475,6 +567,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-08-16 02:00:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-08-16 13:09:33 -0700"
     },
     "done": true
   }
