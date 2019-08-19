@@ -256,3 +256,7 @@
 [19八月2019 13:23:11.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
 [19八月2019 13:24:35.140] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@1af4059f[id=<null>,name=Meow_Meow_,properties={},legacy=false] (/71.95.53.87:50897) lost connection: Disconnected
 [19八月2019 13:24:45.824] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@76cadb31[id=<null>,name=Meow_Meow_,properties={},legacy=false] (/71.95.53.87:50905) lost connection: Disconnected
+[19八月2019 13:32:22.369] [User Authenticator #10/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Meow_Meow_ is 1071705f-7036-40b8-9dd3-c0dca26ddf25
+[19八月2019 13:32:23.234] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Meow_Meow_[/71.95.53.87:49882] logged in with entity id 451385 at (513.1324478771814, 69.0, -521.2264221644232)
+[19八月2019 13:32:23.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ joined the game
+[19八月2019 13:32:23.253] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18229353 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
