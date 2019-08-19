@@ -322,3 +322,10 @@
 [19八月2019 16:10:36.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
 [19八月2019 16:17:10.279] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [19八月2019 16:17:10.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[19八月2019 16:29:25.475] [User Authenticator #15/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[19八月2019 16:29:26.325] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:49617] logged in with entity id 767965 at (594.8567707550565, 88.0, -512.227314663965)
+[19八月2019 16:29:26.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[19八月2019 16:29:26.338] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry/]: Fetching addPacket for removed entity
+[19八月2019 16:29:26.348] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18229353 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[19八月2019 16:39:20.986] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[19八月2019 16:39:20.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game

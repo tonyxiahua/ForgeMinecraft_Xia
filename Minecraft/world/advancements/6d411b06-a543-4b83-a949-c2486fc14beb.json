@@ -229,6 +229,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-08-19 16:37:12 -0700",
+      "cooked_beef": "2019-08-19 16:22:08 -0700",
       "baked_potato": "2019-08-18 22:22:01 -0700",
       "rotten_flesh": "2019-08-19 11:01:23 -0700",
       "beetroot": "2019-08-17 14:19:25 -0700",
@@ -438,6 +440,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2019-08-17 14:19:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-08-19 16:36:06 -0700"
     },
     "done": true
   },
