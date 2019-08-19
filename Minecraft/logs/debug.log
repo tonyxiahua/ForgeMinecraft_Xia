@@ -3881,3 +3881,12 @@
 [19八月2019 15:14:08.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
 [19八月2019 15:14:37.651] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19八月2019 15:14:43.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19八月2019 15:15:24.404] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:16:09.418] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:16:54.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:17:39.400] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:18:24.397] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:19:09.398] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 15:19:25.992] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[19八月2019 15:19:25.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[19八月2019 15:19:54.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
