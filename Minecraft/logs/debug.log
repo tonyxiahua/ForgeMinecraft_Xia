@@ -3134,3 +3134,4 @@
 [19八月2019 12:29:50.954] [Server thread/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/common/Tags$Items.class got resource net/minecraftforge/common/Tags$Items.class true
 [19八月2019 12:30:00.938] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [19八月2019 12:30:45.934] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19八月2019 12:31:30.933] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
