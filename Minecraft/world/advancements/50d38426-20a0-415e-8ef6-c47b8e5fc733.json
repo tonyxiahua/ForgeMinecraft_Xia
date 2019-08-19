@@ -1012,7 +1012,8 @@
       "minecraft:phantom": "2019-08-18 13:23:36 -0700",
       "minecraft:husk": "2019-08-16 23:40:24 -0700",
       "minecraft:spider": "2019-08-16 23:52:21 -0700",
-      "minecraft:zombie": "2019-08-17 12:52:16 -0700"
+      "minecraft:zombie": "2019-08-17 12:52:16 -0700",
+      "minecraft:slime": "2019-08-19 15:10:34 -0700"
     },
     "done": false
   },
@@ -1118,6 +1119,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-08-16 22:07:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-19 15:11:33 -0700"
     },
     "done": true
   },
@@ -1565,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-19 15:11:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-08-17 00:07:07 -0700"
@@ -1652,6 +1665,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-08-17 13:38:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-19 15:11:33 -0700"
     },
     "done": true
   },
@@ -1748,6 +1767,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-17 12:30:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-19 15:11:31 -0700"
     },
     "done": true
   },
