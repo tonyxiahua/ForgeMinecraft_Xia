@@ -368,8 +368,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2019-08-18 22:22:01 -0700",
+      "rotten_flesh": "2019-08-19 11:01:23 -0700",
       "beetroot": "2019-08-17 14:19:25 -0700",
-      "cooked_chicken": "2019-08-18 23:07:54 -0700"
+      "cooked_chicken": "2019-08-18 23:07:54 -0700",
+      "cod": "2019-08-19 11:01:36 -0700"
     },
     "done": false
   },

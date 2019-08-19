@@ -214,3 +214,9 @@
 [19八月2019 10:30:10.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
 [19八月2019 10:30:10.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
 [19八月2019 10:30:10.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[19八月2019 10:59:05.815] [User Authenticator #3/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[19八月2019 10:59:05.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/169.235.176.196:6108] logged in with entity id 294305 at (578.8856070181503, 88.0, -516.9270401805422)
+[19八月2019 10:59:05.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[19八月2019 10:59:05.960] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18229353 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[19八月2019 11:07:21.534] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[19八月2019 11:07:21.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
