@@ -456,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-19 14:54:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2019-08-17 15:08:36 -0700",
@@ -678,6 +684,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-08-17 15:07:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-08-19 14:54:50 -0700"
     },
     "done": true
   },
