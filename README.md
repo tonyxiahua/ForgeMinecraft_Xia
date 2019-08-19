@@ -19,9 +19,13 @@ crontab -e
 
 code Format 
 minute hour day month week command
+my code for cron
+```
+*/15 * * * * cd /home/xia/ForgeMinecraft_Xia/&&python3 /home/xia/ForgeMinecraft_Xia/autoGithub.py
+```
 
-example code 
-
+example recroding code but not running in my system 
+just a simple example
 ```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -36,5 +40,3 @@ def write_file(file):
 file = 'test.txt'
 write_file(file)
 ```
-
-
