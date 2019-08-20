@@ -329,3 +329,9 @@
 [19八月2019 16:29:26.348] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18229353 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [19八月2019 16:39:20.986] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [19八月2019 16:39:20.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[19八月2019 16:42:41.146] [User Authenticator #16/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[19八月2019 16:42:42.035] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:49729] logged in with entity id 789430 at (591.574461914909, 88.0, -505.2253551035247)
+[19八月2019 16:42:42.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[19八月2019 16:42:42.052] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18229353 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[19八月2019 16:59:52.945] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[19八月2019 16:59:52.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
