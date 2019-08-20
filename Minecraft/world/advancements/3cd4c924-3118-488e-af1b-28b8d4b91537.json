@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-08-19 23:00:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:07:11 -0700"
@@ -588,6 +594,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-08-16 23:20:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-08-19 23:00:48 -0700"
     },
     "done": true
   },
