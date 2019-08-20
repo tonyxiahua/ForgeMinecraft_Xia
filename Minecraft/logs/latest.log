@@ -506,3 +506,5 @@
 [19八月2019 22:39:51.100] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Horse moved wrongly!
 [19八月2019 22:39:51.199] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Horse moved wrongly!
 [19八月2019 23:19:53.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard has made the advancement [Hot Stuff]
+[19八月2019 23:20:54.172] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
+[19八月2019 23:20:54.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
