@@ -886,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-08-19 20:12:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-08-16 23:29:19 -0700"
@@ -1813,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-19 20:12:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-17 12:47:15 -0700"
@@ -2095,6 +2107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-08-19 20:12:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-16 23:26:20 -0700"
@@ -2116,6 +2134,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-08-16 23:30:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-08-19 20:12:07 -0700"
     },
     "done": true
   },
