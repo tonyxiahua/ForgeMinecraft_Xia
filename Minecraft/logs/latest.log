@@ -80,3 +80,12 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 11:18:44.884] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/71.95.53.87:62956] logged in with entity id 213 at (579.0749999880791, 88.0, -525.5252097864898)
 [20八月2019 11:18:44.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
 [20八月2019 11:18:44.991] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 15:12:49.789] [User Authenticator #2/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[20八月2019 15:12:50.781] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: You logged in from another location
+[20八月2019 15:12:50.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[20八月2019 15:12:50.791] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:65447] logged in with entity id 234954 at (578.4772014613094, 87.875, -525.463335394307)
+[20八月2019 15:12:50.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[20八月2019 15:12:50.810] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 15:13:49.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ drowned
+[20八月2019 15:13:51.794] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 15:13:51.984] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ moved too quickly! -493.18992583829197,-23.0,424.80000001192093
