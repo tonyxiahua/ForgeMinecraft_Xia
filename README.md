@@ -24,6 +24,13 @@ my code for cron
 */15 * * * * cd /home/xia/ForgeMinecraft_Xia/&&python3 /home/xia/ForgeMinecraft_Xia/autoGithub.py
 ```
 
+Make sure you changed your 22 port to make your server more secure!
+```
+nano /etc/ssh/sshd_config
+```
+uncomment 22 port and change it to something elsey
+
+
 example recroding code but not running in my system 
 just a simple example
 ```python
