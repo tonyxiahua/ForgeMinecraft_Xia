@@ -101,3 +101,16 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 16:59:36.049] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:51963] logged in with entity id 294524 at (595.5879538486784, 88.0, -510.9955501391149)
 [20八月2019 16:59:36.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
 [20八月2019 16:59:36.067] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 17:06:05.678] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[20八月2019 17:06:05.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[20八月2019 17:15:08.094] [User Authenticator #5/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[20八月2019 17:15:08.976] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:51759] logged in with entity id 314875 at (586.1631124566027, 88.875, -514.4897523421532)
+[20八月2019 17:15:08.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[20八月2019 17:15:08.997] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 17:15:44.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Cocoxie> 按右键
+[20八月2019 17:15:48.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Cocoxie> 砸鸡蛋
+[20八月2019 17:17:14.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wang_Wang_> yu yin
+[20八月2019 17:21:31.677] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[20八月2019 17:21:31.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[20八月2019 17:25:47.987] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[20八月2019 17:25:47.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
