@@ -145,3 +145,13 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 20:54:55.279] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [20八月2019 20:57:11.727] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [20八月2019 20:57:11.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[20八月2019 23:10:34.027] [User Authenticator #11/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[20八月2019 23:10:34.918] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:54701] logged in with entity id 400224 at (602.7927914816344, 86.9375, -508.2857056018812)
+[20八月2019 23:10:34.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[20八月2019 23:10:34.935] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 23:11:28.443] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[20八月2019 23:11:28.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[20八月2019 23:25:27.957] [User Authenticator #12/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[20八月2019 23:25:28.937] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:63475] logged in with entity id 400990 at (595.2075798069661, 68.0, -424.0039145576626)
+[20八月2019 23:25:28.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[20八月2019 23:25:28.963] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
