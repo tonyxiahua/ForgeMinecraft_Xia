@@ -139,3 +139,9 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 18:46:04.080] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [20八月2019 18:46:04.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
 [20八月2019 19:51:59.202] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@2c7dd832[id=<null>,name=Wang_Wang_,properties={},legacy=false] (/71.95.53.87:63834) lost connection: Disconnected
+[20八月2019 20:54:54.361] [User Authenticator #10/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[20八月2019 20:54:55.260] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:52612] logged in with entity id 395866 at (590.36112446348, 87.0, -501.3068413821069)
+[20八月2019 20:54:55.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[20八月2019 20:54:55.279] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 20:57:11.727] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[20八月2019 20:57:11.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
