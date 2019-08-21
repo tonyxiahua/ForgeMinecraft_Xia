@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-21 00:32:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-19 22:25:16 -0700"
@@ -453,6 +459,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-17 14:22:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-08-21 00:54:34 -0700"
     },
     "done": true
   },
@@ -983,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-08-21 00:58:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-08-19 13:47:39 -0700"
@@ -992,6 +1010,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2019-08-18 23:01:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-08-21 00:32:22 -0700"
     },
     "done": true
   },
@@ -1136,6 +1160,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2019-08-17 21:14:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-08-21 00:32:22 -0700"
     },
     "done": true
   },
@@ -1307,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2019-08-21 00:32:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-19 21:59:58 -0700"
@@ -1316,6 +1352,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2019-08-19 22:27:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-08-21 00:32:22 -0700"
     },
     "done": true
   },
