@@ -155,3 +155,7 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 23:25:28.937] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:63475] logged in with entity id 400990 at (595.2075798069661, 68.0, -424.0039145576626)
 [20八月2019 23:25:28.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
 [20八月2019 23:25:28.963] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[20八月2019 23:38:46.831] [User Authenticator #13/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Meow_Meow_ is 1071705f-7036-40b8-9dd3-c0dca26ddf25
+[20八月2019 23:38:47.697] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Meow_Meow_[/71.95.53.87:52641] logged in with entity id 415528 at (600.1164675174466, 65.0, -444.08296218546815)
+[20八月2019 23:38:47.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ joined the game
+[20八月2019 23:38:47.715] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
