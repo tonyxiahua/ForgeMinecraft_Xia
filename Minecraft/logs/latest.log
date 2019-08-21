@@ -114,3 +114,7 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [20八月2019 17:21:31.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
 [20八月2019 17:25:47.987] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [20八月2019 17:25:47.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[20八月2019 17:57:08.165] [User Authenticator #6/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[20八月2019 17:57:09.077] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:53597] logged in with entity id 331804 at (545.3855929970438, 66.0, -518.1802686102455)
+[20八月2019 17:57:09.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[20八月2019 17:57:09.096] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@9f48519 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
