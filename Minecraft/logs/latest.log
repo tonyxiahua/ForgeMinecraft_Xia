@@ -82,3 +82,7 @@
 [21八月2019 20:09:18.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ left the game
 [21八月2019 21:09:36.993] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [21八月2019 21:09:36.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[21八月2019 21:46:45.938] [User Authenticator #4/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[21八月2019 21:46:46.777] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:55693] logged in with entity id 168874 at (588.5, 88.0, -510.5)
+[21八月2019 21:46:46.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[21八月2019 21:46:46.795] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
