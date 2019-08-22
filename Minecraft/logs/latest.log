@@ -64,3 +64,13 @@
 [21八月2019 14:46:44.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 1354 ms
 [21八月2019 14:46:44.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.233s)! For help, type "help"
 [21八月2019 14:46:44.100] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[21八月2019 18:34:47.106] [User Authenticator #1/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Cocoxie is 50d38426-20a0-415e-8ef6-c47b8e5fc733
+[21八月2019 18:34:48.169] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoxie[/71.95.53.87:58994] logged in with entity id 187 at (603.6999999880791, 88.0, -512.3518888925483)
+[21八月2019 18:34:48.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie joined the game
+[21八月2019 18:34:48.280] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[21八月2019 18:37:51.741] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
+[21八月2019 18:37:51.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[21八月2019 18:55:21.085] [User Authenticator #2/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Meow_Meow_ is 1071705f-7036-40b8-9dd3-c0dca26ddf25
+[21八月2019 18:55:22.007] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Meow_Meow_[/71.95.53.87:49979] logged in with entity id 5617 at (510.37042406794023, 88.0, -421.3740694437372)
+[21八月2019 18:55:22.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ joined the game
+[21八月2019 18:55:22.032] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
