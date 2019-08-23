@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-08-23 13:40:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-16 23:41:04 -0700"
@@ -2307,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-08-23 13:40:43 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2019-08-17 20:54:30 -0700"
@@ -2388,6 +2400,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-16 23:51:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-08-23 13:40:43 -0700"
     },
     "done": true
   },
