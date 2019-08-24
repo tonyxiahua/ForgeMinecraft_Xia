@@ -235,3 +235,15 @@
 [24八月2019 05:09:13.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 588.5, 70.0, -417.5]
 [24八月2019 05:12:24.538] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [24八月2019 05:12:24.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[24八月2019 13:24:57.591] [User Authenticator #17/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[24八月2019 13:24:58.421] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:62758] logged in with entity id 858194 at (619.5868133170026, 81.0, -512.8318423777018)
+[24八月2019 13:24:58.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[24八月2019 13:24:58.440] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[24八月2019 13:25:39.705] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard was kicked for floating too long!
+[24八月2019 13:25:39.743] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Flying is not enabled on this server
+[24八月2019 13:25:39.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[24八月2019 13:26:01.512] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@250d95d2[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:62762) lost connection: Disconnected
+[24八月2019 13:26:05.924] [User Authenticator #18/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[24八月2019 13:26:06.779] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:62764] logged in with entity id 859063 at (588.5, 88.0999984741211, -510.5)
+[24八月2019 13:26:06.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[24八月2019 13:26:06.793] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
