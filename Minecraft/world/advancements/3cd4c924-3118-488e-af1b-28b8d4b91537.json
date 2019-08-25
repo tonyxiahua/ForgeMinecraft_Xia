@@ -1068,15 +1068,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-08-24 17:28:15 -0700",
       "minecraft:forest": "2019-08-24 05:02:10 -0700",
       "minecraft:taiga": "2019-08-24 05:08:03 -0700",
       "minecraft:desert_hills": "2019-08-16 23:10:50 -0700",
       "minecraft:taiga_hills": "2019-08-24 05:07:58 -0700",
       "minecraft:desert": "2019-08-16 23:10:35 -0700",
+      "minecraft:badlands": "2019-08-24 17:29:18 -0700",
       "minecraft:savanna_plateau": "2019-08-17 00:09:39 -0700",
       "minecraft:beach": "2019-08-16 23:27:24 -0700",
       "minecraft:river": "2019-08-16 23:38:35 -0700",
       "minecraft:lukewarm_ocean": "2019-08-16 23:27:30 -0700",
+      "minecraft:wooded_hills": "2019-08-24 17:28:04 -0700",
       "minecraft:savanna": "2019-08-17 00:10:24 -0700",
       "minecraft:plains": "2019-08-24 05:02:05 -0700"
     },
