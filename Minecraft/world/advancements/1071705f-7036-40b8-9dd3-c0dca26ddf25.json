@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-08-25 12:52:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-08-16 23:28:51 -0700"
@@ -543,8 +549,8 @@
       "minecraft:magma_cube": "2019-08-18 15:48:46 -0700",
       "minecraft:spider": "2019-08-16 20:51:58 -0700",
       "minecraft:zombie": "2019-08-16 20:52:04 -0700",
-      "minecraft:drowned": "2019-08-17 20:19:59 -0700",
       "minecraft:creeper": "2019-08-16 20:56:23 -0700",
+      "minecraft:drowned": "2019-08-17 20:19:59 -0700",
       "minecraft:zombie_villager": "2019-08-19 21:13:48 -0700"
     },
     "done": false
@@ -945,8 +951,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-17 20:41:39 -0700",
-      "minecraft:forest": "2019-08-16 20:56:53 -0700",
       "minecraft:mountains": "2019-08-16 22:52:09 -0700",
+      "minecraft:forest": "2019-08-16 20:56:53 -0700",
       "minecraft:taiga": "2019-08-16 21:02:54 -0700",
       "minecraft:desert_hills": "2019-08-16 20:38:28 -0700",
       "minecraft:desert": "2019-08-16 20:38:22 -0700",
@@ -954,8 +960,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-08-16 23:50:58 -0700",
       "minecraft:savanna_plateau": "2019-08-17 00:00:39 -0700",
       "minecraft:beach": "2019-08-16 20:58:14 -0700",
-      "minecraft:river": "2019-08-16 20:38:20 -0700",
       "minecraft:lukewarm_ocean": "2019-08-16 23:07:18 -0700",
+      "minecraft:river": "2019-08-16 20:38:20 -0700",
       "minecraft:wooded_mountains": "2019-08-16 22:52:23 -0700",
       "minecraft:wooded_hills": "2019-08-16 20:57:11 -0700",
       "minecraft:stone_shore": "2019-08-17 20:30:25 -0700",
