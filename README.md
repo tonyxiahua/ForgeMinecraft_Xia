@@ -1,8 +1,15 @@
 # ForgeMinecraft_Xia
 一个自动的Minecraft 服务器备份~
 
+TO-DO
+现在的任务是完成用户的客户端配置
+依然还没有一个可以供任何平台稳定安装的EXE 文件
+
+
+
 添加记录push信息就好了
 而且利用python 来进行系统自动备份
+这个是具体的push设置内容
 
 .git/config
 ```
