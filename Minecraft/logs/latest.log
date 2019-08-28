@@ -6,3 +6,4 @@
 [28八月2019 01:17:42.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ left the game
 [28八月2019 02:30:40.536] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Timed out
 [28八月2019 02:30:40.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[28八月2019 08:05:08.013] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@b47ac57[id=<null>,name=Wang_Wang_,properties={},legacy=false] (/71.95.53.87:58785) lost connection: Disconnected
