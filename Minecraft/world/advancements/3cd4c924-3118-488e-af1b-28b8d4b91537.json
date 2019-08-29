@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-28 21:39:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-08-17 00:07:11 -0700"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2019-08-16 23:27:31 -0700"
@@ -188,6 +200,12 @@
   "biomesoplenty:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
     },
     "done": true
   },
@@ -483,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-16 23:26:07 -0700"
@@ -516,6 +540,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-28 20:40:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
     },
     "done": true
   },
@@ -651,6 +681,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:07:11 -0700"
@@ -665,14 +707,26 @@
       "minecraft:husk": "2019-08-16 23:20:46 -0700",
       "minecraft:spider": "2019-08-16 23:36:12 -0700",
       "minecraft:zombie": "2019-08-16 23:51:46 -0700",
-      "minecraft:drowned": "2019-08-17 17:15:38 -0700",
-      "minecraft:creeper": "2019-08-16 23:37:21 -0700"
+      "minecraft:creeper": "2019-08-16 23:37:21 -0700",
+      "minecraft:drowned": "2019-08-17 17:15:38 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-08-28 21:39:12 -0700"
     },
     "done": true
   },
@@ -706,6 +760,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-08-16 23:26:21 -0700"
@@ -715,6 +775,12 @@
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
     },
     "done": true
   },
@@ -823,6 +889,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-17 12:37:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
     },
     "done": true
   },
@@ -1105,8 +1177,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-24 17:28:15 -0700",
-      "minecraft:forest": "2019-08-24 05:02:10 -0700",
       "minecraft:mountains": "2019-08-28 20:25:49 -0700",
+      "minecraft:forest": "2019-08-24 05:02:10 -0700",
       "minecraft:taiga": "2019-08-24 05:08:03 -0700",
       "minecraft:desert_hills": "2019-08-16 23:10:50 -0700",
       "minecraft:taiga_hills": "2019-08-24 05:07:58 -0700",
@@ -1117,8 +1189,8 @@
       "minecraft:savanna_plateau": "2019-08-17 00:09:39 -0700",
       "minecraft:beach": "2019-08-16 23:27:24 -0700",
       "minecraft:dark_forest": "2019-08-28 20:27:12 -0700",
-      "minecraft:river": "2019-08-16 23:38:35 -0700",
       "minecraft:lukewarm_ocean": "2019-08-16 23:27:30 -0700",
+      "minecraft:river": "2019-08-16 23:38:35 -0700",
       "minecraft:wooded_hills": "2019-08-24 17:28:04 -0700",
       "minecraft:savanna": "2019-08-17 00:10:24 -0700",
       "minecraft:plains": "2019-08-24 05:02:05 -0700"
@@ -1233,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-08-28 22:00:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-08-16 23:27:31 -0700"
@@ -1305,9 +1383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-08-28 22:00:22 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-08-28 21:37:07 -0700"
     },
     "done": true
   },
