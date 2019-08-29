@@ -62,3 +62,5 @@
 [29八月2019 04:48:17.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 591.5, 66.0, -486.5]
 [29八月2019 04:55:18.592] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [29八月2019 04:55:18.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[29八月2019 13:51:45.985] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Timed out
+[29八月2019 13:51:45.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
