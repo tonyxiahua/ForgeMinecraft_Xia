@@ -143,6 +143,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-08-28 23:06:04 -0700",
+      "diamond_helmet": "2019-08-28 23:06:04 -0700",
+      "diamond_chestplate": "2019-08-28 23:06:04 -0700",
+      "diamond_boots": "2019-08-28 23:06:04 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 23:10:42 -0700"
@@ -727,6 +736,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-28 23:11:12 -0700"
     },
     "done": true
   },
