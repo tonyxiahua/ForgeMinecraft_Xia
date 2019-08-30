@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-30 00:52:17 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 23:10:42 -0700"
@@ -722,10 +728,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-30 00:57:37 -0700",
       "minecraft:skeleton": "2019-08-16 23:40:03 -0700",
       "minecraft:phantom": "2019-08-17 17:54:28 -0700",
       "minecraft:witch": "2019-08-22 00:16:08 -0700",
+      "minecraft:zombie_pigman": "2019-08-30 00:56:30 -0700",
       "minecraft:husk": "2019-08-16 23:20:46 -0700",
+      "minecraft:enderman": "2019-08-30 00:54:49 -0700",
       "minecraft:spider": "2019-08-16 23:36:12 -0700",
       "minecraft:zombie": "2019-08-16 23:51:46 -0700",
       "minecraft:creeper": "2019-08-16 23:37:21 -0700",
@@ -742,6 +751,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-30 00:52:17 -0700"
     },
     "done": true
   },

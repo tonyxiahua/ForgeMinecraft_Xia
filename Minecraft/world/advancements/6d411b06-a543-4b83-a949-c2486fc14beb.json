@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-08-30 00:29:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2019-08-18 15:47:18 -0700"
@@ -917,8 +923,11 @@
       "minecraft:skeleton": "2019-08-18 23:09:33 -0700",
       "minecraft:phantom": "2019-08-18 22:29:58 -0700",
       "minecraft:zombie_pigman": "2019-08-30 00:25:27 -0700",
+      "minecraft:enderman": "2019-08-30 00:41:38 -0700",
+      "minecraft:magma_cube": "2019-08-30 00:30:28 -0700",
       "minecraft:spider": "2019-08-19 22:11:38 -0700",
-      "minecraft:zombie": "2019-08-17 19:17:44 -0700"
+      "minecraft:zombie": "2019-08-17 19:17:44 -0700",
+      "minecraft:creeper": "2019-08-30 00:44:16 -0700"
     },
     "done": false
   },
@@ -998,6 +1007,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-08-19 21:59:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-08-30 00:36:59 -0700"
     },
     "done": true
   },
@@ -1803,6 +1818,12 @@
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-29 23:24:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-08-30 00:29:50 -0700"
     },
     "done": true
   },
