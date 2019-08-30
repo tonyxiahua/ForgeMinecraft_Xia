@@ -552,17 +552,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2019-08-29 22:08:18 -0700"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2019-08-29 20:33:41 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-08-29 22:08:18 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
