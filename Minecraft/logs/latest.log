@@ -93,3 +93,5 @@
 [29八月2019 19:52:53.510] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [29八月2019 19:54:03.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wang_Wang_> hello
 [29八月2019 20:33:41.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [The Parrots and the Bats]
+[29八月2019 21:50:04.985] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Meow_Meow_ lost connection: Disconnected
+[29八月2019 21:50:04.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ left the game
