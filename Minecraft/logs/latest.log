@@ -92,3 +92,4 @@
 [29八月2019 19:52:53.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
 [29八月2019 19:52:53.510] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [29八月2019 19:54:03.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Wang_Wang_> hello
+[29八月2019 20:33:41.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ has made the advancement [The Parrots and the Bats]
