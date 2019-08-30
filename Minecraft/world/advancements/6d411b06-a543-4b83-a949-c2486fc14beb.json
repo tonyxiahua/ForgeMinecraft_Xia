@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-08-30 01:05:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-29 22:08:18 -0700"
@@ -920,8 +926,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-08-30 01:09:39 -0700",
       "minecraft:skeleton": "2019-08-18 23:09:33 -0700",
       "minecraft:phantom": "2019-08-18 22:29:58 -0700",
+      "minecraft:wither_skeleton": "2019-08-30 01:10:40 -0700",
       "minecraft:zombie_pigman": "2019-08-30 00:25:27 -0700",
       "minecraft:enderman": "2019-08-30 00:41:38 -0700",
       "minecraft:magma_cube": "2019-08-30 00:30:28 -0700",
@@ -1149,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-30 01:12:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-08-20 15:28:47 -0700"
@@ -1221,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-08-30 01:07:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2019-08-29 23:06:08 -0700"
@@ -1254,6 +1274,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2019-08-19 13:47:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-08-30 01:00:38 -0700"
     },
     "done": true
   },
@@ -1467,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-08-30 01:12:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-18 23:00:55 -0700"
@@ -1518,6 +1550,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-08-18 23:16:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-08-30 01:12:30 -0700"
     },
     "done": true
   },
