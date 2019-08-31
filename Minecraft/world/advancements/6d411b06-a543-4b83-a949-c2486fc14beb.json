@@ -948,7 +948,8 @@
       "minecraft:magma_cube": "2019-08-30 00:30:28 -0700",
       "minecraft:spider": "2019-08-19 22:11:38 -0700",
       "minecraft:zombie": "2019-08-17 19:17:44 -0700",
-      "minecraft:creeper": "2019-08-30 00:44:16 -0700"
+      "minecraft:creeper": "2019-08-30 00:44:16 -0700",
+      "minecraft:drowned": "2019-08-30 21:46:06 -0700"
     },
     "done": false
   },
@@ -1791,6 +1792,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-08-28 20:33:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-08-30 21:55:02 -0700"
     },
     "done": true
   },
