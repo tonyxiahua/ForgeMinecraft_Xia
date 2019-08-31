@@ -204,3 +204,6 @@
 [30八月2019 22:35:33.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 659.5, 70.0, -548.5]
 [30八月2019 22:43:48.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 494.5, 69.0, -537.5]
 [30八月2019 22:44:10.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 87.0, -516.5]
+[30八月2019 23:09:54.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 87.0, -516.5]
+[30八月2019 23:19:59.990] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[30八月2019 23:19:59.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
