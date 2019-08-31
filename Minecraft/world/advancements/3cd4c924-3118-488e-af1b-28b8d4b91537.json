@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-08-30 21:08:02 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-17 00:15:21 -0700"
@@ -56,6 +62,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 23:10:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-30 21:12:50 -0700"
     },
     "done": true
   },
@@ -80,6 +92,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2019-08-17 17:01:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-08-30 21:07:35 -0700"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
       "diamond_helmet": "2019-08-28 23:06:04 -0700",
       "diamond_chestplate": "2019-08-28 23:06:04 -0700",
       "diamond_boots": "2019-08-28 23:06:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-30 21:12:50 -0700"
     },
     "done": true
   },
@@ -254,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-30 20:42:56 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-08-17 00:07:11 -0700"
@@ -286,6 +316,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2019-08-30 21:18:45 -0700",
       "cooked_mutton": "2019-08-16 23:26:35 -0700",
       "baked_potato": "2019-08-17 15:06:41 -0700",
       "potato": "2019-08-16 23:54:42 -0700",
@@ -429,6 +460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-08-30 21:07:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2019-08-17 00:07:11 -0700"
@@ -462,6 +499,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-08-16 23:37:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-30 20:42:56 -0700"
     },
     "done": true
   },
@@ -561,6 +604,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-28 20:40:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-30 21:12:50 -0700"
     },
     "done": true
   },
@@ -690,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-08-30 21:07:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-08-16 23:26:07 -0700"
@@ -769,6 +824,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2019-08-28 21:39:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-30 20:42:13 -0700"
     },
     "done": true
   },
@@ -1066,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-08-30 21:08:02 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2019-08-17 00:07:11 -0700"
@@ -1192,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-08-30 21:07:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2019-08-17 00:12:39 -0700"
@@ -1269,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-08-30 20:36:40 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:36 -0700"
@@ -1332,6 +1411,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2019-08-18 23:18:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-08-30 21:07:35 -0700"
     },
     "done": true
   },
@@ -1425,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-08-30 21:12:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-08-17 00:07:11 -0700"
@@ -1446,6 +1537,12 @@
   "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-08-30 21:12:50 -0700"
     },
     "done": true
   },
