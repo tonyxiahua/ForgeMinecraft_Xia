@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-08-18 23:18:35 -0700"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2019-08-18 23:49:00 -0700"
@@ -356,6 +368,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-08-17 21:14:16 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
     },
     "done": true
   },
@@ -471,6 +489,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-08-18 22:34:07 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
     },
     "done": true
   },
@@ -725,6 +749,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-18 23:18:35 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
     },
     "done": true
   },
@@ -1001,6 +1031,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-08-29 22:09:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-01 00:03:09 -0700"
     },
     "done": true
   },
@@ -1539,6 +1575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-01 00:03:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-08-18 22:33:06 -0700"
@@ -1785,6 +1827,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2019-08-18 23:00:54 -0700"
@@ -1959,6 +2007,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2019-08-17 14:27:33 -0700"
@@ -2016,6 +2070,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2019-08-29 22:08:24 -0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-09-01 00:21:40 -0700"
     },
     "done": true
   },
