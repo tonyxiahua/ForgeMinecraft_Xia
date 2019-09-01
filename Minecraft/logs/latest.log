@@ -47,3 +47,13 @@
 [31八月2019 22:47:11.394] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:51702] logged in with entity id 4969486 at (563.5052162089249, 70.0, -513.9005628521821)
 [31八月2019 22:47:11.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
 [31八月2019 22:47:11.410] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[31八月2019 23:38:36.373] [User Authenticator #61/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[31八月2019 23:38:37.263] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:50020] logged in with entity id 5050012 at (604.4730852655765, 89.0, -514.9036063121798)
+[31八月2019 23:38:37.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[31八月2019 23:38:37.289] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[31八月2019 23:47:23.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 87.0, -516.5]
+[31八月2019 23:48:03.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 520.5, 66.0, -519.5]
+[31八月2019 23:54:48.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 87.0, -516.5]
+[31八月2019 23:54:57.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 534.5, 77.0, -524.5]
+[31八月2019 23:55:03.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 542.5, 66.0, -523.5]
+[31八月2019 23:59:19.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -511.5]
