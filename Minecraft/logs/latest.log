@@ -43,3 +43,7 @@
 [31八月2019 20:20:41.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie has made the advancement [Best Friends Forever]
 [31八月2019 20:24:20.767] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Cocoxie lost connection: Disconnected
 [31八月2019 20:24:20.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoxie left the game
+[31八月2019 22:47:10.545] [User Authenticator #60/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[31八月2019 22:47:11.394] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:51702] logged in with entity id 4969486 at (563.5052162089249, 70.0, -513.9005628521821)
+[31八月2019 22:47:11.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[31八月2019 22:47:11.410] [Netty Epoll Server IO #1/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
