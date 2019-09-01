@@ -170,3 +170,11 @@
 [01九月2019 01:49:03.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
 [01九月2019 01:49:08.698] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [01九月2019 01:49:08.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[01九月2019 12:01:27.508] [User Authenticator #66/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[01九月2019 12:01:28.542] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:51146] logged in with entity id 5335292 at (412.0750353315181, 66.0, -529.2383734496701)
+[01九月2019 12:01:28.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[01九月2019 12:01:28.609] [Netty Epoll Server IO #4/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[01九月2019 12:01:59.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -512.5]
+[01九月2019 12:02:18.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 429.5, 66.0, -532.5]
+[01九月2019 12:08:22.495] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[01九月2019 12:08:22.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
