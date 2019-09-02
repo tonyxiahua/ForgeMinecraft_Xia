@@ -97,3 +97,28 @@ java.lang.IllegalArgumentException: Malformed \uxxxx encoding.
 [02九月2019 07:37:11.492] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@cd20d0[id=1071705f-7036-40b8-9dd3-c0dca26ddf25,name=Meow_Meow_,properties={textures=[com.mojang.authlib.properties.Property@383b583a]},legacy=false] (/120.230.105.46:48863) lost connection: Took too long to log in
 [02九月2019 07:37:11.891] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: Disconnecting com.mojang.authlib.GameProfile@4345308[id=1071705f-7036-40b8-9dd3-c0dca26ddf25,name=Meow_Meow_,properties={textures=[com.mojang.authlib.properties.Property@dc24281]},legacy=false] (/120.230.105.46:48450): Took too long to log in
 [02九月2019 07:37:11.941] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@4345308[id=1071705f-7036-40b8-9dd3-c0dca26ddf25,name=Meow_Meow_,properties={textures=[com.mojang.authlib.properties.Property@dc24281]},legacy=false] (/120.230.105.46:48450) lost connection: Took too long to log in
+[02九月2019 11:51:56.767] [User Authenticator #10/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[02九月2019 11:51:58.000] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:60656] logged in with entity id 192 at (571.4609790921049, 72.0, -528.36350868657)
+[02九月2019 11:51:58.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[02九月2019 11:51:58.066] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18a553c3 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[02九月2019 11:51:59.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02九月2019 11:52:17.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -512.5]
+[02九月2019 11:56:25.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -511.5]
+[02九月2019 12:00:22.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -512.5]
+[02九月2019 12:04:00.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 589.5, 88.0, -511.5]
+[02九月2019 12:13:03.586] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[02九月2019 12:13:03.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[02九月2019 12:14:22.913] [User Authenticator #11/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[02九月2019 12:14:23.865] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:60722] logged in with entity id 36041 at (593.94694614625, 67.0, -548.6684231749811)
+[02九月2019 12:14:23.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[02九月2019 12:14:23.889] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@18a553c3 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[02九月2019 12:16:08.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -512.5]
+[02九月2019 12:17:54.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 589.5, 88.0, -510.5]
+[02九月2019 12:18:10.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 585.5, 67.0, -548.5]
+[02九月2019 12:27:00.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -511.5]
+[02九月2019 12:30:12.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -511.5]
+[02九月2019 12:42:13.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -510.5]
+[02九月2019 12:44:22.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -509.5]
+[02九月2019 12:50:53.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -510.5]
+[02九月2019 13:11:35.779] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[02九月2019 13:11:35.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
