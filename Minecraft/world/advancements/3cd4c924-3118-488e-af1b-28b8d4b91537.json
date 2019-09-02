@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2019-08-30 21:08:02 -0700"
@@ -248,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-08-16 23:29:34 -0700"
@@ -320,6 +332,7 @@
       "cooked_mutton": "2019-08-16 23:26:35 -0700",
       "baked_potato": "2019-08-17 15:06:41 -0700",
       "potato": "2019-08-16 23:54:42 -0700",
+      "cooked_cod": "2019-09-02 02:43:45 -0700",
       "poisonous_potato": "2019-08-17 12:48:26 -0700",
       "bread": "2019-08-17 00:52:42 -0700",
       "beetroot": "2019-08-16 23:40:32 -0700",
@@ -514,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-16 23:10:42 -0700"
@@ -570,6 +589,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
     },
     "done": true
   },
@@ -794,8 +819,8 @@
       "minecraft:enderman": "2019-08-30 00:54:49 -0700",
       "minecraft:spider": "2019-08-16 23:36:12 -0700",
       "minecraft:zombie": "2019-08-16 23:51:46 -0700",
-      "minecraft:creeper": "2019-08-16 23:37:21 -0700",
-      "minecraft:drowned": "2019-08-17 17:15:38 -0700"
+      "minecraft:drowned": "2019-08-17 17:15:38 -0700",
+      "minecraft:creeper": "2019-08-16 23:37:21 -0700"
     },
     "done": false
   },
@@ -1345,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2019-08-16 23:27:31 -0700"
@@ -1360,8 +1391,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-08-24 17:28:15 -0700",
-      "minecraft:mountains": "2019-08-28 20:25:49 -0700",
       "minecraft:forest": "2019-08-24 05:02:10 -0700",
+      "minecraft:mountains": "2019-08-28 20:25:49 -0700",
       "minecraft:taiga": "2019-08-24 05:08:03 -0700",
       "minecraft:desert_hills": "2019-08-16 23:10:50 -0700",
       "minecraft:taiga_hills": "2019-08-24 05:07:58 -0700",
@@ -1372,8 +1403,8 @@
       "minecraft:savanna_plateau": "2019-08-17 00:09:39 -0700",
       "minecraft:beach": "2019-08-16 23:27:24 -0700",
       "minecraft:dark_forest": "2019-08-28 20:27:12 -0700",
-      "minecraft:lukewarm_ocean": "2019-08-16 23:27:30 -0700",
       "minecraft:river": "2019-08-16 23:38:35 -0700",
+      "minecraft:lukewarm_ocean": "2019-08-16 23:27:30 -0700",
       "minecraft:wooded_hills": "2019-08-24 17:28:04 -0700",
       "minecraft:savanna": "2019-08-17 00:10:24 -0700",
       "minecraft:plains": "2019-08-24 05:02:05 -0700"
@@ -1521,6 +1552,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2019-08-17 17:01:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-09-02 02:52:55 -0700"
     },
     "done": true
   },
