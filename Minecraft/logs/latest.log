@@ -184,3 +184,12 @@
 [01九月2019 15:12:22.347] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [01九月2019 15:14:13.050] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Meow_Meow_ lost connection: Disconnected
 [01九月2019 15:14:13.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ left the game
+[01九月2019 20:09:48.934] [User Authenticator #68/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[01九月2019 20:09:49.993] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:51512] logged in with entity id 5348349 at (491.67575135989404, 66.0, -537.4664421993577)
+[01九月2019 20:09:49.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[01九月2019 20:09:50.064] [Netty Epoll Server IO #7/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@33c1f967 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[01九月2019 20:12:53.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -513.5]
+[01九月2019 20:19:07.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -508.5]
+[01九月2019 20:23:05.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 607.5, 63.0, -471.5]
+[01九月2019 20:24:40.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 642.5, 63.0, -445.5]
+[01九月2019 20:25:44.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -509.5]
