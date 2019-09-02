@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-09-01 21:19:14 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2019-09-01 00:21:40 -0700"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-09-01 21:13:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-19 16:37:12 -0700",
@@ -627,6 +639,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2019-08-18 01:54:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-09-01 21:13:58 -0700"
     },
     "done": true
   },
@@ -893,6 +911,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2019-08-17 14:22:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-09-01 21:19:14 -0700"
     },
     "done": true
   },
@@ -1431,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-09-01 21:19:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2019-08-30 23:03:08 -0700"
@@ -1482,6 +1512,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-08-18 23:01:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-09-01 21:16:47 -0700"
     },
     "done": true
   },
@@ -1629,9 +1665,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-09-01 21:19:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-18 23:00:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-09-01 21:13:58 -0700"
     },
     "done": true
   },
@@ -1656,6 +1704,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2019-08-21 00:32:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-09-01 21:13:49 -0700"
     },
     "done": true
   },
