@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2019-09-01 21:32:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-18 22:33:06 -0700"
