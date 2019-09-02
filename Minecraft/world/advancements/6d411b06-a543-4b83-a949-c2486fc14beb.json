@@ -1088,8 +1088,8 @@
       "minecraft:magma_cube": "2019-08-30 00:30:28 -0700",
       "minecraft:spider": "2019-08-19 22:11:38 -0700",
       "minecraft:zombie": "2019-08-17 19:17:44 -0700",
-      "minecraft:drowned": "2019-08-30 21:46:06 -0700",
-      "minecraft:creeper": "2019-08-30 00:44:16 -0700"
+      "minecraft:creeper": "2019-08-30 00:44:16 -0700",
+      "minecraft:drowned": "2019-08-30 21:46:06 -0700"
     },
     "done": false
   },
@@ -1875,8 +1875,8 @@
       "minecraft:desert": "2019-08-18 23:13:29 -0700",
       "minecraft:savanna_plateau": "2019-08-17 14:06:49 -0700",
       "minecraft:beach": "2019-08-19 21:10:54 -0700",
-      "minecraft:river": "2019-08-19 15:23:09 -0700",
       "minecraft:lukewarm_ocean": "2019-08-19 21:11:13 -0700",
+      "minecraft:river": "2019-08-19 15:23:09 -0700",
       "minecraft:savanna": "2019-08-17 14:24:18 -0700"
     },
     "done": false
