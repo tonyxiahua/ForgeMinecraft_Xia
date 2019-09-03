@@ -37,6 +37,9 @@ nano /etc/ssh/sshd_config
 ```
 uncomment 22 port and change it to something elsey
 
+Translate Chinese motd
+
+https://javawind.net/tools/native2ascii.jsp?action=transform
 
 example recroding code but not running in my system 
 just a simple example
