@@ -46,3 +46,10 @@
 [04九月2019 22:34:06.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
 [04九月2019 22:49:11.162] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [04九月2019 22:49:11.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[04九月2019 23:28:33.100] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@4a6e513c[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:63986) lost connection: Disconnected
+[04九月2019 23:29:06.250] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@50f536c8[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:63987) lost connection: Disconnected
+[04九月2019 23:29:45.850] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@1f1c7c82[id=<null>,name=Ryan0gard,properties={},legacy=false] (/71.95.53.87:63988) lost connection: Disconnected
+[04九月2019 23:29:51.422] [User Authenticator #9/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[04九月2019 23:29:52.281] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:63996] logged in with entity id 168789 at (70.91318784624646, 57.0, -67.31760247025187)
+[04九月2019 23:29:52.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[04九月2019 23:29:52.295] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6017d8b8 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
