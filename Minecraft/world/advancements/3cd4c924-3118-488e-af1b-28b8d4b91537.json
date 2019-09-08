@@ -460,6 +460,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2019-09-08 02:45:10 -0700",
       "chicken": "2019-08-30 21:18:45 -0700",
       "cooked_mutton": "2019-08-16 23:26:35 -0700",
       "baked_potato": "2019-08-17 15:06:41 -0700",
