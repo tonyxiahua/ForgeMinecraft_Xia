@@ -12,3 +12,9 @@
 [09九月2019 01:22:28.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 580.5, 64.0, -470.5]
 [09九月2019 01:23:19.388] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [09九月2019 01:23:19.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[09九月2019 02:35:44.937] [User Authenticator #21/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[09九月2019 02:35:45.800] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:60992] logged in with entity id 1419622 at (596.011238787207, 68.0, -487.2909637499535)
+[09九月2019 02:35:45.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[09九月2019 02:35:45.817] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6017d8b8 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[09九月2019 02:39:32.801] [Netty Epoll Server IO #6/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6017d8b8 (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[09九月2019 02:39:34.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
