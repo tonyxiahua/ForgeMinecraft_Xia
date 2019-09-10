@@ -64,3 +64,4 @@
 [09九月2019 15:48:52.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 1543 ms
 [09九月2019 15:48:52.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.154s)! For help, type "help"
 [09九月2019 15:48:52.080] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[09九月2019 19:54:29.140] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
