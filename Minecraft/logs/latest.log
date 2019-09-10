@@ -63,3 +63,8 @@
 [09九月2019 21:06:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 1398 ms
 [09九月2019 21:06:17.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.178s)! For help, type "help"
 [09九月2019 21:06:17.798] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[09九月2019 22:39:57.808] [User Authenticator #1/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[09九月2019 22:39:59.024] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:55602] logged in with entity id 177 at (591.5436144592777, 88.0, -509.24682139997446)
+[09九月2019 22:39:59.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[09九月2019 22:39:59.100] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[09九月2019 22:40:00.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
