@@ -270,3 +270,8 @@
 [10九月2019 16:31:46.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 372.5, 80.0, -205.5]
 [10九月2019 16:35:57.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 367.5, 80.0, -206.5]
 [10九月2019 16:58:26.717] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ moved too quickly! 9.269848098925024,-1.0,-3.810239878447078
+[10九月2019 17:08:14.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 403.5, 71.0, -194.5]
+[10九月2019 17:08:17.779] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[10九月2019 17:08:17.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[10九月2019 17:10:49.675] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
+[10九月2019 17:10:49.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
