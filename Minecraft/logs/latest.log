@@ -52,3 +52,7 @@
 [13九月2019 04:47:28.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13901ms or 278 ticks behind
 [13九月2019 04:47:32.874] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
 [13九月2019 04:47:32.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[13九月2019 22:59:48.371] [User Authenticator #7/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
+[13九月2019 22:59:49.376] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:58178] logged in with entity id 1020617 at (403.0489954368722, 71.0, -196.25570429254958)
+[13九月2019 22:59:49.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
+[13九月2019 22:59:49.394] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
