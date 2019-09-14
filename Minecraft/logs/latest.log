@@ -1,81 +1,30 @@
-[13九月2019 04:10:43.899] [User Authenticator #6/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
-[13九月2019 04:10:44.819] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/71.95.53.87:54140] logged in with entity id 940984 at (363.30987836766496, 71.0, -275.9321788254508)
-[13九月2019 04:10:44.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
-[13九月2019 04:10:44.838] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[13九月2019 04:13:28.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 645.5, 63.0, -425.5]
-[13九月2019 04:13:29.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 613.5, 63.0, -463.5]
-[13九月2019 04:13:30.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
-[13九月2019 04:13:31.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 596.5, 65.0, -484.5]
-[13九月2019 04:13:58.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12992ms or 259 ticks behind
-[13九月2019 04:14:25.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11627ms or 232 ticks behind
-[13九月2019 04:14:50.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10759ms or 215 ticks behind
-[13九月2019 04:15:15.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9881ms or 197 ticks behind
-[13九月2019 04:15:42.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12162ms or 243 ticks behind
-[13九月2019 04:16:08.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10292ms or 205 ticks behind
-[13九月2019 04:16:34.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11402ms or 228 ticks behind
-[13九月2019 04:16:53.816] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[13九月2019 04:16:57.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8052ms or 161 ticks behind
-[13九月2019 04:18:05.867] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[13九月2019 04:18:07.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
-[13九月2019 04:18:38.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15367ms or 307 ticks behind
-[13九月2019 04:19:04.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10909ms or 218 ticks behind
-[13九月2019 04:19:29.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 455.5, 70.0, -143.5]
-[13九月2019 04:19:30.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 383.5, 70.0, -185.5]
-[13九月2019 04:19:31.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12097ms or 241 ticks behind
-[13九月2019 04:21:49.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 678.5, 64.0, -502.5]
-[13九月2019 04:21:50.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 635.5, 65.0, -498.5]
-[13九月2019 04:21:51.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[13九月2019 04:21:52.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 618.5, 87.0, -512.5]
-[13九月2019 04:21:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 595.5, 72.0, -491.5]
-[13九月2019 04:22:21.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14597ms or 291 ticks behind
-[13九月2019 04:22:47.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11256ms or 225 ticks behind
-[13九月2019 04:23:15.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12522ms or 250 ticks behind
-[13九月2019 04:23:43.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13476ms or 269 ticks behind
-[13九月2019 04:24:10.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12444ms or 248 ticks behind
-[13九月2019 04:24:38.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12891ms or 257 ticks behind
-[13九月2019 04:25:08.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14301ms or 286 ticks behind
-[13九月2019 04:25:35.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12714ms or 254 ticks behind
-[13九月2019 04:26:05.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14412ms or 288 ticks behind
-[13九月2019 04:26:34.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14315ms or 286 ticks behind
-[13九月2019 04:26:44.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 421.5, 64.0, -267.5]
-[13九月2019 04:34:44.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 635.5, 63.0, -506.5]
-[13九月2019 04:34:46.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 589.5, 88.0, -509.5]
-[13九月2019 04:34:47.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[13九月2019 04:35:17.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15112ms or 302 ticks behind
-[13九月2019 04:35:46.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13466ms or 269 ticks behind
-[13九月2019 04:36:01.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 329.5, 63.0, -295.5]
-[13九月2019 04:36:07.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6857ms or 137 ticks behind
-[13九月2019 04:46:26.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 621.5, 64.0, -498.5]
-[13九月2019 04:46:28.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 597.5, 76.0, -495.5]
-[13九月2019 04:46:28.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[13九月2019 04:46:59.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16273ms or 325 ticks behind
-[13九月2019 04:47:28.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13901ms or 278 ticks behind
-[13九月2019 04:47:32.874] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
-[13九月2019 04:47:32.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
-[13九月2019 22:59:48.371] [User Authenticator #7/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
-[13九月2019 22:59:49.376] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/159.118.173.74:58178] logged in with entity id 1020617 at (403.0489954368722, 71.0, -196.25570429254958)
-[13九月2019 22:59:49.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
-[13九月2019 22:59:49.394] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[13九月2019 23:00:13.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 596.5, 84.0, -506.5]
-[13九月2019 23:00:16.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[13九月2019 23:00:46.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14866ms or 297 ticks behind
-[13九月2019 23:01:15.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14645ms or 292 ticks behind
-[13九月2019 23:01:46.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15823ms or 316 ticks behind
-[13九月2019 23:02:16.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14733ms or 294 ticks behind
-[13九月2019 23:02:41.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10157ms or 203 ticks behind
-[13九月2019 23:03:38.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 596.5, 88.0, -517.5]
-[13九月2019 23:04:39.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 588.5, 88.0, -523.5]
-[13九月2019 23:10:06.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 380.5, 71.0, -211.5]
-[13九月2019 23:13:08.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -511.5]
-[13九月2019 23:21:03.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[13九月2019 23:21:20.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
-[13九月2019 23:21:39.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
-[13九月2019 23:21:57.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
-[13九月2019 23:22:16.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[13九月2019 23:27:59.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 592.5, 94.0, -552.5]
-[13九月2019 23:28:51.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 544.5, 66.0, -504.5]
-[13九月2019 23:31:38.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 598.5, 64.0, -481.5]
-[13九月2019 23:32:26.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 380.5, 71.0, -212.5]
-[13九月2019 23:33:10.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 589.5, 88.0, -511.5]
-[13九月2019 23:33:15.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[13九月2019 23:33:28.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 382.5, 71.0, -211.5]
+[14九月2019 00:00:29.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2821.5, 70.0, -365.5]
+[14九月2019 00:00:32.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14九月2019 00:00:46.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2653.5, 67.0, -617.5]
+[14九月2019 00:00:50.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[14九月2019 00:01:01.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2549.5, 76.0, -639.5]
+[14九月2019 00:03:33.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2560.5, 82.0, -651.5]
+[14九月2019 00:08:33.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 590.5, 88.0, -511.5]
+[14九月2019 00:08:38.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14九月2019 00:09:02.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2553.5, 80.0, -638.5]
+[14九月2019 00:09:14.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2577.5, 81.0, -639.5]
+[14九月2019 00:09:21.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2574.5, 65.0, -638.5]
+[14九月2019 00:10:07.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2603.5, 72.0, -632.5]
+[14九月2019 00:10:35.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2605.5, 72.0, -633.5]
+[14九月2019 00:10:47.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 2768.5, 71.0, -571.5]
+[14九月2019 00:10:50.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[14九月2019 00:11:19.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 402.5, 64.0, -347.5]
+[14九月2019 00:11:29.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 157.5, 66.0, -198.5]
+[14九月2019 00:11:44.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 11.5, 64.0, -60.5]
+[14九月2019 00:12:18.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -86.5, 68.0, 30.5]
+[14九月2019 00:12:32.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 126.5, 63.0, -217.5]
+[14九月2019 00:12:39.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -24.5, 65.0, -275.5]
+[14九月2019 00:12:51.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -116.5, 64.0, -242.5]
+[14九月2019 00:15:08.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -78.5, 69.0, -205.5]
+[14九月2019 00:16:59.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -200.5, 76.0, -267.5]
+[14九月2019 00:17:09.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -320.5, 72.0, -331.5]
+[14九月2019 00:19:03.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -511.5]
+[14九月2019 00:19:08.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14九月2019 00:19:29.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -315.5, 68.0, -391.5]
+[14九月2019 00:19:44.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -510.5, 63.0, -443.5]
+[14九月2019 00:19:57.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to -648.5, 69.0, -560.5]
