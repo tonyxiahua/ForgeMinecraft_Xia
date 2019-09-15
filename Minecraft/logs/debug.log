@@ -14300,3 +14300,91 @@
 [15九月2019 02:19:40.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 最主要是要漏斗朝向比较器
 [15九月2019 02:19:45.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
 [15九月2019 02:20:00.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 然后最难的就完事了。。。
+[15九月2019 02:20:05.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4707ms or 94 ticks behind
+[15九月2019 02:20:25.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[15九月2019 02:20:28.724] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:20:33.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 两个
+[15九月2019 02:20:45.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 最后是红石火把
+[15九月2019 02:20:47.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[15九月2019 02:21:04.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 前半段就做完了
+[15九月2019 02:21:07.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5477ms or 109 ticks behind
+[15九月2019 02:21:14.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 591.5, 88.0, -514.5]
+[15九月2019 02:21:16.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 我再去造一些东西
+[15九月2019 02:21:28.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6020ms or 120 ticks behind
+[15九月2019 02:21:28.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 好
+[15九月2019 02:21:31.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:21:40.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 组就够用了
+[15九月2019 02:21:43.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 6
+[15九月2019 02:21:46.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 576.5, 88.0, -513.5]
+[15九月2019 02:21:49.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
+[15九月2019 02:22:02.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 不用烧太多
+[15九月2019 02:22:09.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4995ms or 99 ticks behind
+[15九月2019 02:22:28.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> enen
+[15九月2019 02:22:28.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
+[15九月2019 02:22:32.341] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:22:50.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6906ms or 138 ticks behind
+[15九月2019 02:22:53.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 没有。。。暂时
+[15九月2019 02:23:02.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ryan0gard> 我昨晚烧了好多，，，
+[15九月2019 02:23:04.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Wang_Wang_: Teleported Wang_Wang_ to 547.5, 66.0, -530.5]
+[15九月2019 02:23:10.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4986ms or 99 ticks behind
+[15九月2019 02:23:12.842] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@6bc23fd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[15九月2019 02:23:35.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9767ms or 195 ticks behind
+[15九月2019 02:23:39.174] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:23:58.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8113ms or 162 ticks behind
+[15九月2019 02:24:20.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6556ms or 131 ticks behind
+[15九月2019 02:24:42.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7333ms or 146 ticks behind
+[15九月2019 02:24:46.440] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:25:06.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9335ms or 186 ticks behind
+[15九月2019 02:25:29.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 600.5, 77.0, -529.5]
+[15九月2019 02:25:30.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
+[15九月2019 02:25:52.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6762ms or 135 ticks behind
+[15九月2019 02:25:55.673] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:26:16.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9358ms or 187 ticks behind
+[15九月2019 02:26:38.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7526ms or 150 ticks behind
+[15九月2019 02:27:01.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7357ms or 147 ticks behind
+[15九月2019 02:27:04.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:27:25.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8800ms or 176 ticks behind
+[15九月2019 02:27:46.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6782ms or 135 ticks behind
+[15九月2019 02:28:10.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8724ms or 174 ticks behind
+[15九月2019 02:28:14.586] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:28:35.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9923ms or 198 ticks behind
+[15九月2019 02:28:57.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6886ms or 137 ticks behind
+[15九月2019 02:29:19.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6848ms or 136 ticks behind
+[15九月2019 02:29:22.689] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:29:42.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8698ms or 173 ticks behind
+[15九月2019 02:30:04.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6641ms or 132 ticks behind
+[15九月2019 02:30:27.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8334ms or 166 ticks behind
+[15九月2019 02:30:31.506] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:30:51.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8920ms or 178 ticks behind
+[15九月2019 02:31:14.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7995ms or 159 ticks behind
+[15九月2019 02:31:37.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7648ms or 152 ticks behind
+[15九月2019 02:31:40.822] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:32:01.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9179ms or 183 ticks behind
+[15九月2019 02:32:24.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8504ms or 170 ticks behind
+[15九月2019 02:32:47.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7788ms or 155 ticks behind
+[15九月2019 02:32:51.078] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:33:10.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8039ms or 160 ticks behind
+[15九月2019 02:33:33.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7930ms or 158 ticks behind
+[15九月2019 02:33:55.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7527ms or 150 ticks behind
+[15九月2019 02:33:59.521] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:34:19.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
+[15九月2019 02:34:40.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
+[15九月2019 02:35:01.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6435ms or 128 ticks behind
+[15九月2019 02:35:05.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:35:24.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7735ms or 154 ticks behind
+[15九月2019 02:35:47.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
+[15九月2019 02:36:09.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6851ms or 137 ticks behind
+[15九月2019 02:36:13.007] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:36:32.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8562ms or 171 ticks behind
+[15九月2019 02:36:55.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7544ms or 150 ticks behind
+[15九月2019 02:37:16.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6648ms or 132 ticks behind
+[15九月2019 02:37:20.798] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:37:40.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8656ms or 173 ticks behind
+[15九月2019 02:38:03.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7739ms or 154 ticks behind
+[15九月2019 02:38:26.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7803ms or 156 ticks behind
+[15九月2019 02:38:29.504] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:38:49.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8619ms or 172 ticks behind
+[15九月2019 02:39:13.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8680ms or 173 ticks behind
+[15九月2019 02:39:35.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6944ms or 138 ticks behind
+[15九月2019 02:39:38.786] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[15九月2019 02:39:58.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7989ms or 159 ticks behind
