@@ -533,6 +533,7 @@
       "minecraft:ghast": "2019-09-04 23:53:10 -0700",
       "minecraft:cave_spider": "2019-09-14 17:13:51 -0700",
       "minecraft:enderman": "2019-08-30 00:54:49 -0700",
+      "minecraft:silverfish": "2019-09-20 21:38:06 -0700",
       "minecraft:magma_cube": "2019-09-05 00:02:45 -0700",
       "minecraft:spider": "2019-08-16 23:36:12 -0700",
       "minecraft:zombie": "2019-08-16 23:51:46 -0700",
@@ -605,6 +606,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-08-19 14:54:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-09-20 21:26:23 -0700"
     },
     "done": true
   },
@@ -951,6 +958,7 @@
       "minecraft:river": "2019-08-16 23:38:35 -0700",
       "minecraft:lukewarm_ocean": "2019-08-16 23:27:30 -0700",
       "minecraft:wooded_hills": "2019-08-24 17:28:04 -0700",
+      "minecraft:stone_shore": "2019-09-20 21:18:17 -0700",
       "minecraft:savanna": "2019-08-17 00:10:24 -0700",
       "minecraft:plains": "2019-08-24 05:02:05 -0700"
     },
