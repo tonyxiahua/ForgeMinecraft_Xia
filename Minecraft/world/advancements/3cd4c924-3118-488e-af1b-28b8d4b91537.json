@@ -1572,7 +1572,8 @@
     "criteria": {
       "minecraft:cow": "2019-08-30 21:53:35 -0700",
       "minecraft:chicken": "2019-08-17 15:21:34 -0700",
-      "minecraft:pig": "2019-08-30 22:00:44 -0700"
+      "minecraft:pig": "2019-08-30 22:00:44 -0700",
+      "minecraft:sheep": "2019-09-22 04:43:32 -0700"
     },
     "done": false
   },
