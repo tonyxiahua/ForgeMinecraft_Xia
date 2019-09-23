@@ -398,3 +398,23 @@
 [23九月2019 02:39:34.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
 [23九月2019 02:39:52.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 589.5, 88.0, -512.5]
 [23九月2019 02:39:53.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[23九月2019 02:40:11.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[23九月2019 02:44:39.686] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 66.76 seconds (should be max 0.05)
+[23九月2019 02:44:40.422] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
+[23九月2019 02:44:43.308] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard moved too quickly! -5.05299841274109,-3.464159374955443,7.93156644296306
+[23九月2019 02:44:43.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 456.5, 5.0, -551.5]
+[23九月2019 02:44:43.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 456.5, 5.0, -551.5]
+[23九月2019 02:44:43.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 456.5, 5.0, -551.5]
+[23九月2019 02:45:12.335] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
+[23九月2019 02:45:12.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[23九月2019 02:45:12.588] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
+[23九月2019 02:45:12.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[23九月2019 02:45:12.659] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@3f7aa[id=<null>,name=Ryan0gard,properties={},legacy=false] (/47.41.44.159:50902) lost connection: Disconnected
+[23九月2019 02:45:12.660] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@24a6dff0[id=<null>,name=Wang_Wang_,properties={},legacy=false] (/159.118.173.74:62894) lost connection: Disconnected
+[23九月2019 02:45:12.661] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@797cfaa9[id=<null>,name=Wang_Wang_,properties={},legacy=false] (/159.118.173.74:62900) lost connection: Disconnected
+[23九月2019 02:45:12.662] [Server thread/INFO] [net.minecraft.network.NetHandlerLoginServer/]: com.mojang.authlib.GameProfile@12cd6a64[id=<null>,name=Ryan0gard,properties={},legacy=false] (/47.41.44.159:50905) lost connection: Disconnected
+[23九月2019 02:45:14.814] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /home/xia/ForgeMinecraft_Xia/Minecraft/./crash-reports/crash-2019-09-23_02.45.13-server.txt
+[23九月2019 02:45:14.987] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23九月2019 02:45:15.144] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23九月2019 02:45:15.144] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23九月2019 02:45:15.152] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
