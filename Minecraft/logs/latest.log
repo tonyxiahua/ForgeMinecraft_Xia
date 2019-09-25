@@ -209,3 +209,7 @@
 [24九月2019 21:59:12.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22424ms or 448 ticks behind
 [24九月2019 21:59:12.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 590.5, 62.0, -452.5]
 [24九月2019 21:59:52.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25378ms or 507 ticks behind
+[24九月2019 22:00:32.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24823ms or 496 ticks behind
+[24九月2019 22:01:05.245] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
+[24九月2019 22:01:05.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[24九月2019 22:01:05.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18768ms or 375 ticks behind
