@@ -6433,3 +6433,65 @@
 [26九月2019 04:18:14.594] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26九月2019 04:18:59.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26九月2019 04:19:44.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:20:29.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:21:14.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:21:59.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:22:44.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:23:29.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:24:14.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:24:42.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 532.5, 66.0, -526.5]
+[26九月2019 04:24:59.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:25:44.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:26:29.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:27:14.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:27:59.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:28:20.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 589.5, 88.0, -512.5]
+[26九月2019 04:28:44.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:29:29.599] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:30:14.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:30:59.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:31:01.372] [Server thread/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerInteractEvent$1.class got resource net/minecraftforge/event/entity/player/PlayerInteractEvent$1.class true
+[26九月2019 04:31:44.596] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:32:29.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:33:14.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:33:51.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 515.5, 66.0, -518.5]
+[26九月2019 04:33:59.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:34:44.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:35:29.596] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:36:14.594] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:36:59.594] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:37:44.603] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:37:51.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 466.5, 68.0, -548.5]
+[26九月2019 04:37:51.145] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard moved too quickly! -13.132037377746485,43.0,5.09590508904148
+[26九月2019 04:38:29.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:39:14.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:39:59.597] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:40:44.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:41:29.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:41:43.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ryan0gard: Teleported Ryan0gard to 547.5, 71.0, -521.5]
+[26九月2019 04:42:14.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:42:31.899] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard lost connection: Disconnected
+[26九月2019 04:42:31.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard left the game
+[26九月2019 04:42:59.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:43:44.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:44:29.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:45:14.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:45:59.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:46:44.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:47:29.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:48:14.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:48:59.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:49:44.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:50:29.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:51:14.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:51:59.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:52:44.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:53:29.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:54:14.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:54:59.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:55:44.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:56:29.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:57:14.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:57:59.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:58:44.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26九月2019 04:59:29.564] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
