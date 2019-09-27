@@ -1128,6 +1128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-09-27 00:14:57 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-17 12:49:36 -0700"
@@ -1853,6 +1859,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-08-28 21:37:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-09-27 00:14:57 -0700"
     },
     "done": true
   },
