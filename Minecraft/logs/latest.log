@@ -79,3 +79,10 @@
 [27九月2019 11:28:06.010] [Netty Epoll Server IO #0/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@34fac3bd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
 [27九月2019 11:58:14.095] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
 [27九月2019 11:58:14.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
+[27九月2019 19:10:17.190] [User Authenticator #11/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Ryan0gard is 3cd4c924-3118-488e-af1b-28b8d4b91537
+[27九月2019 19:10:18.129] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ryan0gard[/47.41.44.159:55173] logged in with entity id 3156577 at (593.0338683861662, 88.0625, -518.0391339008845)
+[27九月2019 19:10:18.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ryan0gard joined the game
+[27九月2019 19:10:18.147] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@34fac3bd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[27九月2019 19:11:39.109] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@34fac3bd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
+[27九月2019 19:11:41.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[27九月2019 19:12:54.168] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer/]: Ryan0gard moved too quickly! -2.887808520027292,-4.26089497562414,8.755384301467746
