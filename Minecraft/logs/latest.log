@@ -1,12 +1,7 @@
-[05十月2019 03:27:58.373] [User Authenticator #15/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Wang_Wang_ is 6d411b06-a543-4b83-a949-c2486fc14beb
-[05十月2019 03:27:59.302] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Wang_Wang_[/47.41.44.159:61247] logged in with entity id 3262011 at (594.6245177695239, 88.0, -510.30560848032417)
-[05十月2019 03:27:59.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ joined the game
-[05十月2019 03:27:59.323] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@34fac3bd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[05十月2019 03:28:23.745] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Wang_Wang_ lost connection: Disconnected
-[05十月2019 03:28:23.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Wang_Wang_ left the game
-[05十月2019 03:29:30.847] [User Authenticator #16/INFO] [net.minecraft.network.NetHandlerLoginServer/]: UUID of player Meow_Meow_ is 1071705f-7036-40b8-9dd3-c0dca26ddf25
-[05十月2019 03:29:31.742] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Meow_Meow_[/47.41.44.159:61351] logged in with entity id 3272686 at (479.3104123354672, 87.0, -456.0628366468857)
-[05十月2019 03:29:31.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ joined the game
-[05十月2019 03:29:31.757] [Netty Epoll Server IO #5/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize biomesoplenty.common.command.BiomeArgument@34fac3bd (class biomesoplenty.common.command.BiomeArgument) - will not be sent to client!
-[05十月2019 03:34:41.643] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer/]: Meow_Meow_ lost connection: Disconnected
-[05十月2019 03:34:41.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Meow_Meow_ left the game
+[11十月2019 07:26:53.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[11十月2019 07:30:02.699] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 60.00 seconds (should be max 0.05)
+[11十月2019 07:30:02.700] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
+[11十月2019 07:30:04.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 205136ms or 4102 ticks behind
+[11十月2019 07:30:56.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37357ms or 747 ticks behind
+[11十月2019 07:31:01.217] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /home/xia/ForgeMinecraft_Xia/Minecraft/./crash-reports/crash-2019-10-11_07.30.59-server.txt
+[11十月2019 07:31:01.401] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
