@@ -9679,3 +9679,41 @@ java.io.EOFException: null
 [17十月2019 03:37:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17十月2019 03:38:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17十月2019 03:39:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:40:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:40:47.021] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:41:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:42:03.229] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/fml/network/NetworkHooks.class got resource net/minecraftforge/fml/network/NetworkHooks.class true
+[17十月2019 03:42:03.241] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerContainerEvent$Open.class got resource net/minecraftforge/event/entity/player/PlayerContainerEvent$Open.class true
+[17十月2019 03:42:03.244] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerContainerEvent.class got resource net/minecraftforge/event/entity/player/PlayerContainerEvent.class true
+[17十月2019 03:42:03.247] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerEvent.class got resource net/minecraftforge/event/entity/player/PlayerEvent.class true
+[17十月2019 03:42:03.251] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/living/LivingEvent.class got resource net/minecraftforge/event/entity/living/LivingEvent.class true
+[17十月2019 03:42:03.256] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/EntityEvent.class got resource net/minecraftforge/event/entity/EntityEvent.class true
+[17十月2019 03:42:03.285] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerContainerEvent.class got resource net/minecraftforge/event/entity/player/PlayerContainerEvent.class true
+[17十月2019 03:42:03.292] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/player/PlayerEvent.class got resource net/minecraftforge/event/entity/player/PlayerEvent.class true
+[17十月2019 03:42:03.294] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/living/LivingEvent.class got resource net/minecraftforge/event/entity/living/LivingEvent.class true
+[17十月2019 03:42:03.296] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/event/entity/EntityEvent.class got resource net/minecraftforge/event/entity/EntityEvent.class true
+[17十月2019 03:42:03.360] [Netty Epoll Server IO #3/TRACE] [net.minecraftforge.fml.loading.ModJarURLHandler/CORE]: Loading modjar URL modjar://forge/net/minecraftforge/fml/network/FMLStatusPing$Serializer.class got resource net/minecraftforge/fml/network/FMLStatusPing$Serializer.class true
+[17十月2019 03:42:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:43:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:43:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:44:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:45:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:46:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:46:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:47:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:48:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:49:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:49:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:50:32.021] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:51:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:52:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:52:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:53:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:54:17.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:55:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:55:47.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:56:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:57:17.023] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:58:02.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:58:47.021] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17十月2019 03:59:32.022] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
