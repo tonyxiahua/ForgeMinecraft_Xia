@@ -1,98 +1,66 @@
-[13十月2019 01:56:45.474] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 25.0.219, --fml.mcpVersion, 20190213.203750, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge, -o, ture]
-[13十月2019 01:56:45.482] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_222
-[13十月2019 01:56:46.051] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[13十月2019 01:56:46.905] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., -o, ture]
-[13十月2019 01:57:03.053] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13十月2019 01:57:03.061] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13十月2019 01:57:03.067] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13十月2019 01:57:03.088] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13十月2019 01:57:03.100] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13十月2019 01:57:03.435] [main/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 0 recipes
-[13十月2019 01:57:03.444] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
-[13十月2019 01:57:05.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.13.2
-[13十月2019 01:57:06.124] [Server thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
-[13十月2019 01:57:06.487] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 25.0.219, for MC 1.13.2 with MCP 20190213.203750
-[13十月2019 01:57:06.494] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v25.0.219 Initialized
-[13十月2019 01:57:06.618] [modloading-worker-2/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:mudball
-[13十月2019 01:57:06.721] [modloading-worker-2/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:boat_bop
-[13十月2019 01:57:09.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[13十月2019 01:57:09.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[13十月2019 01:57:09.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[13十月2019 01:57:09.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
-[13十月2019 01:57:10.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[13十月2019 01:57:11.362] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[13十月2019 01:57:11.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 25.0.219 Target: 25.0.219
-[13十月2019 01:57:12.023] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[13十月2019 01:57:12.027] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
-[13十月2019 01:57:12.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[13十月2019 01:57:12.077] [Server thread/ERROR] [net.minecraft.world.storage.SaveFormatOld/]: Exception reading ./world/level.dat
-java.io.EOFException: null
-	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:164) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:1.8.0_222]
-	at net.minecraft.nbt.CompressedStreamTools.func_74796_a(CompressedStreamTools.java:24) ~[?:?]
-	at net.minecraft.world.storage.SaveFormatOld.getWorldData(SaveFormatOld.java:95) [?:?]
-	at net.minecraft.world.storage.SaveFormatOld.func_186353_a(SaveFormatOld.java:89) [?:?]
-	at net.minecraft.world.storage.SaveFormatOld.func_75803_c(SaveFormatOld.java:76) [?:?]
-	at net.minecraft.world.chunk.storage.AnvilSaveConverter.func_75801_b(SourceFile:105) [?:?]
-	at net.minecraft.server.MinecraftServer.func_71237_c(MinecraftServer.java:218) [?:?]
-	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:294) [?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:235) [?:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:549) [?:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
-[13十月2019 01:57:12.181] [Server thread/ERROR] [net.minecraft.world.storage.SaveFormatOld/]: Exception reading ./world/level.dat
-java.io.EOFException: null
-	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:268) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:258) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:164) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:79) ~[?:1.8.0_222]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:91) ~[?:1.8.0_222]
-	at net.minecraft.nbt.CompressedStreamTools.func_74796_a(CompressedStreamTools.java:24) ~[?:?]
-	at net.minecraft.world.storage.SaveFormatOld.getWorldData(SaveFormatOld.java:95) [?:?]
-	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:97) [?:?]
-	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:235) [?:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:549) [?:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
-[13十月2019 01:57:12.491] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.13.2-25.0.219-universal.jar, BiomesOPlenty-1.13.2-8.0.0.164-universal.jar
-[13十月2019 01:57:14.037] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 679 recipes
-[13十月2019 01:57:14.585] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/all_biomes: Unknown biome 'biomesoplenty:crag'
-[13十月2019 01:57:14.588] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/beach_island_biomes: Unknown biome 'biomesoplenty:origin_island'
-[13十月2019 01:57:14.592] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/nether_biomes: Unknown biome 'biomesoplenty:corrupted_sands'
-[13十月2019 01:57:14.594] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/root: Expected item to be an item, was unknown string 'biomesoplenty:origin_grass_block'
-[13十月2019 01:57:14.601] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/swamp_biomes: Unknown biome 'biomesoplenty:dead_swamp'
-[13十月2019 01:57:15.290] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/wasteland_biome: Task Advancement{parentId=biomesoplenty:biomesoplenty/root, display=net.minecraft.advancements.DisplayInfo@1ca76a8, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@56dff483}, criteria={wasteland=net.minecraft.advancements.Criterion@52b481f7}, requirements=[[wasteland]]}
-[13十月2019 01:57:15.291] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/magic_biomes: Task Advancement{parentId=biomesoplenty:biomesoplenty/beach_island_biomes, display=net.minecraft.advancements.DisplayInfo@46d8012d, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@56dff483}, criteria={mystic_grove=net.minecraft.advancements.Criterion@30159b38, ominous_woods=net.minecraft.advancements.Criterion@331d0b3e}, requirements=[[mystic_grove], [ominous_woods]]}
-[13十月2019 01:57:15.292] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/evergreen_biomes: Task Advancement{parentId=biomesoplenty:biomesoplenty/root, display=net.minecraft.advancements.DisplayInfo@49694b8b, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@56dff483}, criteria={shield=net.minecraft.advancements.Criterion@4f51cd6a, flower_meadow=net.minecraft.advancements.Criterion@72cfafef, wetland=net.minecraft.advancements.Criterion@57ac8140, maple_woods=net.minecraft.advancements.Criterion@549aad2d, boreal_forest=net.minecraft.advancements.Criterion@15e10049, redwood_forest=net.minecraft.advancements.Criterion@1ade65cd, alps_foothills=net.minecraft.advancements.Criterion@294b5157, snowy_coniferous_forest=net.minecraft.advancements.Criterion@28397296, redwood_forest_edge=net.minecraft.advancements.Criterion@35c7dc90, seasonal_forest=net.minecraft.advancements.Criterion@5c5e27e8, temperate_rainforest=net.minecraft.advancements.Criterion@2f6c04dd, dead_forest=net.minecraft.advancements.Criterion@4c227e64, coniferous_forest=net.minecraft.advancements.Criterion@470a082c, meadow=net.minecraft.advancements.Criterion@6ac60642}, requirements=[[shield], [flower_meadow], [wetland], [maple_woods], [boreal_forest], [redwood_forest], [alps_foothills], [snowy_coniferous_forest], [redwood_forest_edge], [seasonal_forest], [temperate_rainforest], [dead_forest], [coniferous_forest], [meadow]]}
-[13十月2019 01:57:15.292] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 726 advancements
-[13十月2019 01:57:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[13十月2019 01:57:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 4%
-[13十月2019 01:57:15.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 8%
-[13十月2019 01:57:15.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 12%
-[13十月2019 01:57:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 16%
-[13十月2019 01:57:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 20%
-[13十月2019 01:57:16.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 24%
-[13十月2019 01:57:16.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 28%
-[13十月2019 01:57:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 32%
-[13十月2019 01:57:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 36%
-[13十月2019 01:57:16.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 40%
-[13十月2019 01:57:16.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 44%
-[13十月2019 01:57:16.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 48%
-[13十月2019 01:57:16.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 52%
-[13十月2019 01:57:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 56%
-[13十月2019 01:57:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 60%
-[13十月2019 01:57:16.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 64%
-[13十月2019 01:57:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 68%
-[13十月2019 01:57:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 72%
-[13十月2019 01:57:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 76%
-[13十月2019 01:57:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 80%
-[13十月2019 01:57:16.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 84%
-[13十月2019 01:57:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 88%
-[13十月2019 01:57:16.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 92%
-[13十月2019 01:57:16.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 96%
-[13十月2019 01:57:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 100%
-[13十月2019 01:57:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 1413 ms
-[13十月2019 01:57:16.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.020s)! For help, type "help"
-[13十月2019 01:57:17.008] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
+[09十一月2019 11:41:55.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 25.0.219, --fml.mcpVersion, 20190213.203750, --fml.mcVersion, 1.13.2, --fml.forgeGroup, net.minecraftforge, -o, ture]
+[09十一月2019 11:41:55.788] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_222
+[09十一月2019 11:41:56.376] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[09十一月2019 11:41:57.247] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., -o, ture]
+[09十一月2019 11:42:11.319] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09十一月2019 11:42:11.324] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09十一月2019 11:42:11.325] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09十一月2019 11:42:11.335] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09十一月2019 11:42:11.340] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09十一月2019 11:42:11.547] [main/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 0 recipes
+[09十一月2019 11:42:11.550] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
+[09十一月2019 11:42:12.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.13.2
+[09十一月2019 11:42:13.228] [Server thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[09十一月2019 11:42:13.393] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 25.0.219, for MC 1.13.2 with MCP 20190213.203750
+[09十一月2019 11:42:13.434] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v25.0.219 Initialized
+[09十一月2019 11:42:13.625] [modloading-worker-2/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:mudball
+[09十一月2019 11:42:13.726] [modloading-worker-2/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity biomesoplenty:boat_bop
+[09十一月2019 11:42:16.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09十一月2019 11:42:16.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09十一月2019 11:42:16.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09十一月2019 11:42:16.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[09十一月2019 11:42:16.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09十一月2019 11:42:17.360] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[09十一月2019 11:42:17.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 25.0.219 Target: 25.0.219
+[09十一月2019 11:42:18.042] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[09十一月2019 11:42:18.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09十一月2019 11:42:18.640] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.13.2-25.0.219-universal.jar, BiomesOPlenty-1.13.2-8.0.0.164-universal.jar
+[09十一月2019 11:42:20.431] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 679 recipes
+[09十一月2019 11:42:20.949] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/all_biomes: Unknown biome 'biomesoplenty:crag'
+[09十一月2019 11:42:20.950] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/beach_island_biomes: Unknown biome 'biomesoplenty:origin_island'
+[09十一月2019 11:42:20.952] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/nether_biomes: Unknown biome 'biomesoplenty:corrupted_sands'
+[09十一月2019 11:42:20.958] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/root: Expected item to be an item, was unknown string 'biomesoplenty:origin_grass_block'
+[09十一月2019 11:42:20.959] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement biomesoplenty:biomesoplenty/swamp_biomes: Unknown biome 'biomesoplenty:dead_swamp'
+[09十一月2019 11:42:21.647] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/wasteland_biome: Task Advancement{parentId=biomesoplenty:biomesoplenty/root, display=net.minecraft.advancements.DisplayInfo@1b1556f2, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@552ea161}, criteria={wasteland=net.minecraft.advancements.Criterion@438060eb}, requirements=[[wasteland]]}
+[09十一月2019 11:42:21.651] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/magic_biomes: Task Advancement{parentId=biomesoplenty:biomesoplenty/beach_island_biomes, display=net.minecraft.advancements.DisplayInfo@1dabc3f4, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@552ea161}, criteria={mystic_grove=net.minecraft.advancements.Criterion@5dec7f92, ominous_woods=net.minecraft.advancements.Criterion@38dddd68}, requirements=[[mystic_grove], [ominous_woods]]}
+[09十一月2019 11:42:21.652] [Server thread/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement biomesoplenty:biomesoplenty/evergreen_biomes: Task Advancement{parentId=biomesoplenty:biomesoplenty/root, display=net.minecraft.advancements.DisplayInfo@5c412a4f, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.command.FunctionObject$CacheableFunction@552ea161}, criteria={shield=net.minecraft.advancements.Criterion@6e88bacd, flower_meadow=net.minecraft.advancements.Criterion@210019f7, wetland=net.minecraft.advancements.Criterion@27a04bc9, maple_woods=net.minecraft.advancements.Criterion@72660e20, boreal_forest=net.minecraft.advancements.Criterion@59939c73, redwood_forest=net.minecraft.advancements.Criterion@787df917, alps_foothills=net.minecraft.advancements.Criterion@5da60bd2, snowy_coniferous_forest=net.minecraft.advancements.Criterion@1f731948, redwood_forest_edge=net.minecraft.advancements.Criterion@5ac67ed1, seasonal_forest=net.minecraft.advancements.Criterion@4de481df, temperate_rainforest=net.minecraft.advancements.Criterion@2071fb2a, dead_forest=net.minecraft.advancements.Criterion@27cf0f35, coniferous_forest=net.minecraft.advancements.Criterion@4e96ddeb, meadow=net.minecraft.advancements.Criterion@2795579f}, requirements=[[shield], [flower_meadow], [wetland], [maple_woods], [boreal_forest], [redwood_forest], [alps_foothills], [snowy_coniferous_forest], [redwood_forest_edge], [seasonal_forest], [temperate_rainforest], [dead_forest], [coniferous_forest], [meadow]]}
+[09十一月2019 11:42:21.655] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 726 advancements
+[09十一月2019 11:42:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09十一月2019 11:42:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 4%
+[09十一月2019 11:42:22.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 8%
+[09十一月2019 11:42:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 12%
+[09十一月2019 11:42:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 16%
+[09十一月2019 11:42:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 20%
+[09十一月2019 11:42:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 24%
+[09十一月2019 11:42:23.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 28%
+[09十一月2019 11:42:23.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 32%
+[09十一月2019 11:42:23.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 36%
+[09十一月2019 11:42:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 40%
+[09十一月2019 11:42:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 44%
+[09十一月2019 11:42:23.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 48%
+[09十一月2019 11:42:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 52%
+[09十一月2019 11:42:23.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 56%
+[09十一月2019 11:42:23.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 60%
+[09十一月2019 11:42:23.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 64%
+[09十一月2019 11:42:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 68%
+[09十一月2019 11:42:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 72%
+[09十一月2019 11:42:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 76%
+[09十一月2019 11:42:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 80%
+[09十一月2019 11:42:24.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 84%
+[09十一月2019 11:42:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 88%
+[09十一月2019 11:42:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 92%
+[09十一月2019 11:42:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 96%
+[09十一月2019 11:42:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing spawn area: 100%
+[09十一月2019 11:42:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Time elapsed: 2436 ms
+[09十一月2019 11:42:24.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.634s)! For help, type "help"
+[09十一月2019 11:42:24.656] [Server thread/INFO] [biomesoplenty/]: Registering BoP commands...
